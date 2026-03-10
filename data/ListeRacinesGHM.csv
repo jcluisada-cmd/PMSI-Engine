@@ -1,0 +1,675 @@
+CMD;ListeRacineGHM;Libellé liste
+01;01C03;Craniotomies pour traumatisme, âge supérieur à 17 ans
+01;01C04;Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans
+01;01C05;Interventions sur le rachis et la moelle pour des affections neurologiques
+01;01C06;Interventions sur le système vasculaire précérébral
+01;01C08;Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux
+01;01C09;Pose d'un stimulateur cérébral
+01;01C10;Pose d'un stimulateur médullaire
+01;01C11;Craniotomies pour tumeurs, âge inférieur à 18 ans
+01;01C12;Craniotomies pour affections non tumorales, âge inférieur à 18 ans
+01;01C14;Libérations de nerfs superficiels à l'exception du médian au canal carpien
+01;01C15;Libérations du médian au canal carpien
+01;01K02;Autres embolisations intracrâniennes et médullaires
+01;01K03;Autres actes thérapeutiques par voie vasculaire du système nerveux
+01;01K04;Injections de toxine botulique, en ambulatoire
+01;01K05;Séjours pour douleurs chroniques rebelles comprenant un bloc ou une infiltration, en ambulatoire
+01;01K06;Affections du système nerveux sans acte opératoire avec anesthésie, en ambulatoire
+01;01K07;Embolisations intracrâniennes et médullaires pour hémorragie
+01;01M04;Méningites virales
+01;01M05;Infections du système nerveux à l'exception des méningites virales
+01;01M07;Maladies dégénératives du système nerveux, âge supérieur à 79 ans
+01;01M08;Maladies dégénératives du système nerveux, âge inférieur à 80 ans
+01;01M09;Affections et lésions du rachis et de la moelle
+01;01M10;Autres affections cérébrovasculaires
+01;01M11;Affections des nerfs crâniens et rachidiens
+01;01M12;Autres affections du système nerveux
+01;01M13;Troubles de la conscience et comas d'origine non traumatique
+01;01M15;Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans
+01;01M16;Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans
+01;01M17;Sclérose en plaques et ataxie cérébelleuse
+01;01M18;Lésions traumatiques intracrâniennes sévères
+01;01M19;Autres lésions traumatiques intracrâniennes, sauf commotions
+01;01M20;Commotions cérébrales
+01;01M21;Douleurs chroniques rebelles
+01;01M22;Migraines et céphalées
+01;01M23;Convulsions hyperthermiques
+01;01M24;Epilepsie, âge inférieur à 18 ans
+01;01M25;Epilepsie, âge supérieur à 17 ans
+01;01M26;Tumeurs malignes du système nerveux
+01;01M27;Autres tumeurs du système nerveux
+01;01M28;Hydrocéphalies
+01;01M29;Anévrysmes cérébraux
+01;01M30;Accidents vasculaires intracérébraux non transitoires
+01;01M31;Autres accidents vasculaires cérébraux non transitoires
+01;01M32;Explorations et surveillance pour affections du système nerveux
+01;01M33;Troubles du sommeil
+01;01M34;Anomalies de la démarche d'origine neurologique
+01;01M35;Symptômes et autres recours aux soins de la CMD 01
+01;01M36;Accidents vasculaires cérébraux non transitoires avec décès : séjours de moins de 2 jours
+01;01M37;Autres affections de la CMD 01 avec décès : séjours de moins de 2 jours
+01;01M38;Autres affections neurologiques concernant majoritairement la petite enfance
+01;01M39;Troubles de la régulation thermique du nouveau-né et du nourrisson
+02;02C02;Interventions sur la rétine
+02;02C03;Interventions sur l'orbite
+02;02C05;Interventions sur le cristallin avec ou sans vitrectomie
+02;02C06;Interventions primaires sur l'iris
+02;02C07;Autres interventions extraoculaires, âge inférieur à 18 ans
+02;02C08;Autres interventions extraoculaires, âge supérieur à 17 ans
+02;02C09;Allogreffes de cornée
+02;02C10;Autres interventions intraoculaires pour affections sévères
+02;02C11;Autres interventions intraoculaires en dehors des affections sévères
+02;02C12;Interventions sur le cristallin avec trabéculectomie
+02;02C13;Interventions sur les muscles oculomoteurs, âge inférieur à 18 ans
+02;02M02;Hyphéma
+02;02M03;Infections oculaires aiguës sévères
+02;02M04;Affections oculaires d'origine neurologique
+02;02M05;Autres affections oculaires, âge inférieur à 18 ans
+02;02M07;Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans
+02;02M08;Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans
+02;02M09;Explorations et surveillance pour affections de l'oeil
+02;02M10;Symptômes et autres recours aux soins de la CMD 02
+03;03C05;Réparations de fissures labiale et palatine
+03;03C06;Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans
+03;03C07;Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans
+03;03C09;Rhinoplasties
+03;03C10;Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans
+03;03C11;Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans
+03;03C12;Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans
+03;03C13;Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans
+03;03C14;Drains transtympaniques, âge inférieur à 18 ans
+03;03C15;Drains transtympaniques, âge supérieur à 17 ans
+03;03C16;Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou
+03;03C17;Interventions sur la bouche
+03;03C18;Pose d'implants cochléaires
+03;03C19;Ostéotomies de la face
+03;03C20;Interventions de reconstruction de l'oreille moyenne
+03;03C21;Interventions pour oreilles décollées
+03;03C24;Interventions sur les glandes salivaires
+03;03C25;Interventions majeures sur la tête et le cou
+03;03C26;Autres interventions sur la tête et le cou
+03;03C27;Interventions sur les amygdales, en ambulatoire
+03;03C28;Interventions sur les végétations adénoïdes, en ambulatoire
+03;03C29;Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes
+03;03C30;Interventions sur l'oreille externe
+03;03K02;Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires
+03;03K03;Séjours comprenant une endoscopie oto-rhino-laryngologique, en ambulatoire
+03;03K04;Séjours comprenant certains actes non opératoires de la CMD 03, en ambulatoire
+03;03M02;Traumatismes et déformations du nez
+03;03M03;Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans
+03;03M04;Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans
+03;03M05;Troubles de l'équilibre
+03;03M06;Epistaxis
+03;03M07;Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche
+03;03M08;Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans
+03;03M09;Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans
+03;03M10;Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans
+03;03M11;Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans
+03;03M12;Infections aigües sévères des voies aériennes supérieures, âge inférieur à 18 ans
+03;03M13;Infections aigües sévères des voies aériennes supérieures, âge supérieur à 17 ans
+03;03M14;Explorations et surveillance pour affections ORL
+03;03M15;Symptômes et autres recours aux soins de la CMD 03
+04;04C02;Interventions majeures sur le thorax
+04;04C03;Autres interventions chirurgicales sur le système respiratoire
+04;04C04;Interventions sous thoracoscopie
+04;04K02;Séjours comprenant une endoscopie bronchique, en ambulatoire
+04;04M02;Bronchites et asthme, âge inférieur à 18 ans
+04;04M03;Bronchites et asthme, âge supérieur à 17 ans
+04;04M04;Pneumonies et pleurésies banales, âge inférieur à 18 ans
+04;04M05;Pneumonies et pleurésies banales, âge supérieur à 17 ans
+04;04M06;Infections et inflammations respiratoires, âge inférieur à 18 ans
+04;04M07;Infections et inflammations respiratoires, âge supérieur à 17 ans
+04;04M08;Bronchopneumopathies chroniques
+04;04M09;Tumeurs de l'appareil respiratoire
+04;04M10;Embolies pulmonaires
+04;04M11;Signes et symptômes respiratoires
+04;04M12;Pneumothorax
+04;04M13;Oedème pulmonaire et détresse respiratoire
+04;04M14;Maladies pulmonaires interstitielles
+04;04M15;Autres diagnostics portant sur le système respiratoire
+04;04M16;Traumatismes thoraciques
+04;04M17;Epanchements pleuraux
+04;04M18;Bronchiolites
+04;04M19;Tuberculoses
+04;04M20;Bronchopneumopathies chroniques surinfectées
+04;04M21;Suivis de greffe pulmonaire
+04;04M22;Explorations et surveillance pour affections de l'appareil respiratoire
+04;04M23;Autres symptômes et recours aux soins de la CMD 04
+04;04M24;Affections de la CMD 04 avec décès : séjours de moins de 2 jours
+04;04M25;Grippes
+04;04M26;Fibroses kystiques avec manifestations pulmonaires
+04;04M27;Autres affections respiratoires concernant majoritairement la petite enfance
+05;05C02;Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie
+05;05C03;Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie
+05;05C04;Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie
+05;05C05;Pontages aortocoronariens sans cathétérisme cardiaque, ni coronarographie
+05;05C06;Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle
+05;05C07;Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation extracorporelle
+05;05C08;Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle
+05;05C09;Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation extracorporelle
+05;05C10;Chirurgie majeure de revascularisation
+05;05C11;Autres interventions de chirurgie vasculaire
+05;05C12;Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires
+05;05C13;Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils
+05;05C14;Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc
+05;05C15;Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc
+05;05C17;Ligatures de veines et éveinages
+05;05C18;Autres interventions sur le système circulatoire
+05;05C19;Poses d'un défibrillateur cardiaque
+05;05C20;Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente
+05;05C21;Créations et réfections de fistules artérioveineuses pour affections de la CMD 05
+05;05C22;Remplacements de stimulateurs cardiaques permanents
+05;05K05;Endoprothèses vasculaires avec infarctus du myocarde
+05;05K06;Endoprothèses vasculaires sans infarctus du myocarde
+05;05K10;Actes diagnostiques par voie vasculaire
+05;05K12;Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans
+05;05K14;Mise en place de certains accès vasculaires pour des affections de la CMD 05, séjours de moins de 2 jours
+05;05K15;Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire
+05;05K17;Affections cardiovasculaires sans acte opératoire de la CMD 05, avec anesthésie, en ambulatoire
+05;05K19;Traitements majeurs de troubles du rythme par voie vasculaire
+05;05K20;Autres traitements de troubles du rythme par voie vasculaire
+05;05K21;Poses de bioprothèses de valves cardiaques par voie vasculaire
+05;05K22;Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supérieur à 17 ans
+05;05K23;Ablations, repositionnements et poses de sondes cardiaques supplémentaires par voie vasculaire, âge supérieur à 17 ans
+05;05K24;Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans
+05;05K25;Actes thérapeutiques sur les artères par voie vasculaire, âge supérieur à 17 ans
+05;05K26;Actes thérapeutiques sur les accès vasculaires ou les veines par voie vasculaire, âge supérieur à 17 ans
+05;05M04;Infarctus aigu du myocarde
+05;05M05;Syncopes et lipothymies
+05;05M06;Angine de poitrine
+05;05M07;Thrombophlébites veineuses profondes
+05;05M08;Arythmies et troubles de la conduction cardiaque
+05;05M09;Insuffisances cardiaques et états de choc circulatoire
+05;05M10;Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans
+05;05M11;Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans
+05;05M12;Troubles vasculaires périphériques
+05;05M13;Douleurs thoraciques
+05;05M14;Arrêt cardiaque
+05;05M15;Hypertension artérielle
+05;05M16;Athérosclérose coronarienne
+05;05M17;Autres affections de l'appareil circulatoire
+05;05M18;Endocardites aiguës et subaiguës
+05;05M19;Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire
+05;05M20;Explorations et surveillance pour affections de l'appareil circulatoire
+05;05M21;Infarctus aigu du myocarde avec décès : séjours de moins de 2 jours
+05;05M22;Autres affections de la CMD 05 avec décès : séjours de moins de 2 jours
+05;05M23;Symptômes et autres recours aux soins de la CMD 05
+06;06C03;Résections rectales
+06;06C04;Interventions majeures sur l'intestin grêle et le côlon
+06;06C05;Interventions sur l'oesophage, l'estomac et le duodénum, âge inférieur à 18 ans
+06;06C07;Interventions mineures sur l'intestin grêle et le côlon
+06;06C08;Appendicectomies compliquées
+06;06C09;Appendicectomies non compliquées
+06;06C10;Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans
+06;06C12;Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans
+06;06C13;Libérations d'adhérences péritonéales
+06;06C14;Interventions sur le rectum et l'anus autres que les résections rectales
+06;06C15;Autres interventions sur le tube digestif en dehors des laparotomies
+06;06C16;Interventions sur l'oesophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans
+06;06C19;Hémorroïdectomies
+06;06C20;Interventions sur l'oesophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans
+06;06C21;Autres interventions sur le tube digestif par laparotomie
+06;06C22;Interventions sur l'oesophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans
+06;06C23;Certaines interventions pour stomies
+06;06C24;Cures d'éventrations postopératoires, âge supérieur à 17 ans
+06;06C25;Interventions réparatrices pour hernies à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans
+06;06K02;Endoscopies digestives thérapeutiques et anesthésie : séjours de moins de 2 jours
+06;06K03;Séjours comprenant une endoscopie digestive thérapeutique sans anesthésie, en ambulatoire
+06;06K04;Endoscopie digestive diagnostique et anesthésie, en ambulatoire
+06;06K05;Séjours comprenant une endoscopie digestive diagnostique sans anesthésie, en ambulatoire
+06;06K06;Affections digestives sans acte opératoire de la CMD 06, avec anesthésie, en ambulatoire
+06;06M02;Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans
+06;06M03;Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans
+06;06M04;Hémorragies digestives
+06;06M05;Autres tumeurs malignes du tube digestif
+06;06M06;Occlusions intestinales non dues à une hernie
+06;06M07;Maladies inflammatoires de l'intestin
+06;06M08;Autres affections digestives, âge inférieur à 18 ans
+06;06M09;Autres affections digestives, âge supérieur à 17 ans
+06;06M10;Ulcères gastroduodénaux compliqués
+06;06M11;Ulcères gastroduodénaux non compliqués
+06;06M12;Douleurs abdominales
+06;06M13;Tumeurs malignes de l'oesophage et de l'estomac
+06;06M14;Invaginations intestinales aigües
+06;06M15;Suivi de greffes de l'appareil digestif
+06;06M16;Explorations et surveillance pour affections de l'appareil digestif
+06;06M17;Soins de stomies digestives
+06;06M18;Symptômes et autres recours aux soins de la CMD 06
+06;06M19;Affections sévères du tube digestif
+06;06M20;Tumeurs bénignes de l'appareil digestif
+06;06M21;Autres affections digestives concernant majoritairement la petite enfance
+07;07C06;Interventions diagnostiques sur le système hépato-biliaire et pancréatique pour affections malignes
+07;07C07;Interventions diagnostiques sur le système hépato-biliaire et pancréatique pour affections non malignes
+07;07C08;Autres interventions sur le système hépato-biliaire et pancréatique
+07;07C09;Interventions sur le foie, le pancréas et les veines porte ou cave pour tumeurs malignes
+07;07C10;Interventions sur le foie, le pancréas et les veines porte ou cave pour affections non malignes
+07;07C11;Dérivations biliaires
+07;07C12;Autres interventions sur les voies biliaires sauf cholécystectomies isolées
+07;07C13;Cholécystectomies sans exploration de la voie biliaire principale pour affections aigües
+07;07C14;Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aigües
+07;07K02;Endoscopies biliaires thérapeutiques et anesthésie : séjours de moins de 2 jours
+07;07K04;Endoscopie biliaire diagnostique et anesthésie, en ambulatoire
+07;07K05;Séjours comprenant une endoscopie biliaire thérapeutique ou diagnostique sans anesthésie, en ambulatoire
+07;07K06;Actes thérapeutiques par voie vasculaire pour des affections malignes du système hépatobiliaire
+07;07M02;Affections des voies biliaires
+07;07M04;Autres affections hépatiques
+07;07M06;Affections malignes du système hépato-biliaire ou du pancréas
+07;07M07;Cirrhoses alcooliques
+07;07M08;Autres cirrhoses et fibrose hépatique
+07;07M09;Hépatites chroniques
+07;07M10;Pancréatites aigües
+07;07M11;Autres affections non malignes du pancréas
+07;07M12;Suivis de greffe de foie et de pancréas
+07;07M13;Explorations et surveillance des affections du système hépatobiliaire et du pancréas
+07;07M14;Symptômes et autres recours aux soins de la CMD 07
+07;07M15;Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques
+07;07M16;Ictères du nouveau-né
+08;08C02;Interventions majeures multiples sur les genoux et/ou les hanches
+08;08C04;Interventions sur la hanche et le fémur, âge inférieur à 18 ans
+08;08C06;Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif
+08;08C12;Biopsies ostéoarticulaires
+08;08C13;Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur
+08;08C14;Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur
+08;08C20;Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif
+08;08C21;Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif
+08;08C22;Interventions pour reprise de prothèses articulaires
+08;08C24;Prothèses de genou
+08;08C25;Prothèses d'épaule
+08;08C27;Autres interventions sur le rachis
+08;08C28;Interventions maxillofaciales
+08;08C29;Interventions sur le tissu mou pour tumeurs malignes
+08;08C31;Interventions sur la jambe, âge inférieur à 18 ans
+08;08C32;Interventions sur la jambe, âge supérieur à 17 ans
+08;08C33;Interventions sur la cheville et l'arrière-pied à l'exception des fractures
+08;08C34;Interventions sur les ligaments croisés sous arthroscopie
+08;08C35;Interventions sur le bras, coude et épaule
+08;08C36;Interventions sur le pied, âge inférieur à 18 ans
+08;08C37;Interventions sur le pied, âge supérieur à 17 ans
+08;08C38;Autres arthroscopies du genou
+08;08C39;Interventions sur l'avant-bras
+08;08C40;Arthroscopies d'autres localisations
+08;08C42;Interventions non mineures sur les tissus mous
+08;08C43;Interventions non mineures sur la main
+08;08C44;Autres interventions sur la main
+08;08C45;Ménisectomie sous arthroscopie
+08;08C46;Autres interventions sur les tissus mous
+08;08C47;Prothèses de hanche pour traumatismes récents
+08;08C48;Prothèses de hanche pour des affections autres que des traumatismes récents
+08;08C49;Interventions sur la hanche et le fémur pour traumatismes récents, âge supérieur à 17 ans
+08;08C50;Interventions sur la hanche et le fémur sauf traumatismes récents, âge supérieur à 17 ans
+08;08C51;Interventions majeures sur le rachis pour fractures, cyphoses et scolioses
+08;08C52;Autres interventions majeures sur le rachis
+08;08C53;Interventions sur le genou pour traumatismes
+08;08C54;Interventions sur le genou pour des affections autres que traumatiques
+08;08C55;Interventions sur la cheville et l'arrière-pied pour fractures
+08;08C57;Libérations articulaires du membre inférieur à l'exception de la hanche et du pied
+08;08C58;Arthroscopies de l'épaule
+08;08C59;Ténosynovectomies du poignet
+08;08C60;Interventions sur le poignet autres que les ténosynovectomies
+08;08C61;Interventions majeures pour infections ostéoarticulaires
+08;08C62;Autres interventions pour infections ostéoarticulaires
+08;08K02;Affections de l'appareil musculosquelettique sans acte opératoire de la CMD 08, avec anesthésie, en ambulatoire
+08;08K03;Tractions continues et réductions progressives : autres que hanche et fémur
+08;08K04;Tractions continues et réductions progressives : hanche et fémur
+08;08K05;Spondyloplasties
+08;08K06;Autres actes interventionnels sur le rachis, séjours de moins de 2 nuits
+08;08M04;Fractures de la hanche et du bassin
+08;08M05;Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur
+08;08M06;Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans
+08;08M07;Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans
+08;08M08;Entorses et luxations de la hanche et du bassin
+08;08M09;Arthropathies non spécifiques
+08;08M10;Maladies osseuses et arthropathies spécifiques
+08;08M14;Affections du tissu conjonctif
+08;08M15;Tendinites, myosites et bursites
+08;08M18;Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif
+08;08M19;Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif
+08;08M20;Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans
+08;08M21;Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans
+08;08M22;Fractures, entorses, luxations et dislocations de la main
+08;08M23;Fractures, entorses, luxations et dislocations du pied
+08;08M24;Tumeurs primitives malignes des os, du cartilage ou des tissus mous
+08;08M25;Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif
+08;08M26;Fractures du rachis
+08;08M27;Sciatiques et autres radiculopathies
+08;08M28;Autres rachialgies
+08;08M29;Autres pathologies rachidiennes relevant d'un traitement médical
+08;08M30;Rhumatismes et raideurs articulaires
+08;08M31;Ostéomyélites aigües (y compris vertébrales) et arthrites septiques
+08;08M32;Ostéomyélites chroniques
+08;08M33;Ablation de matériel sans acte classant
+08;08M34;Algoneurodystrophie
+08;08M35;Explorations et surveillance de l'appareil musculosquelettique et du tissu conjonctif
+08;08M36;Symptômes et autres recours aux soins de la CMD 08
+08;08M37;Fractures du bras et de l'avant-bras, âge supérieur à 17 ans
+08;08M38;Entorses et luxations du rachis
+09;09C08;Interventions sur la région anale et périanale
+09;09C09;Interventions plastiques en dehors de la chirurgie esthétique
+09;09C13;Interventions pour condylomes anogénitaux
+09;09C14;Certains curages lymphonodaux pour des affections de la peau, des tissus sous-cutanés ou des seins
+09;09C16;Mastectomies totales avec reconstructions complexes
+09;09C17;Reconstructions complexes isolées
+09;09C18;Interventions majeures pour tumeur maligne du sein avec reconstruction prothétique
+09;09C19;Interventions majeures pour tumeur maligne du sein
+09;09C20;Autres interventions pour tumeur maligne du sein
+09;09C21;Interventions majeures hors tumeur maligne du sein
+09;09C22;Autres interventions hors tumeur maligne du sein
+09;09C23;Interventions majeures pour tumeur maligne de la peau
+09;09C24;Interventions intermédiaires pour tumeur maligne de la peau
+09;09C25;Autres interventions pour tumeur maligne de la peau
+09;09C26;Interventions pour tumeurs bénignes, naevus, kystes ou atteintes de l'ongle
+09;09C27;Interventions d'exérèse ou de greffe pour infection
+09;09C28;Interventions majeures d'exérèse ou de greffe
+09;09C29;Interventions intermédiaires d'exérèse ou de greffe
+09;09C30;Exérèse de lésions fasciales ou sousfasciales des tissus mous
+09;09C31;Autres interventions d'exérèse ou de greffe
+09;09C32;Chirurgie superficielle des orifices sensoriels de la face
+09;09C33;Autres interventions majeures de la CMD09
+09;09C34;Autres interventions de la CMD09
+09;09K02;Affections de la peau, des tissus sous-cutanés et des seins sans acte opératoire de la CMD 09, avec anesthésie, en ambulatoire
+09;09M02;Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans
+09;09M03;Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans
+09;09M04;Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans
+09;09M05;Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans
+09;09M06;Ulcères cutanés
+09;09M07;Autres affections dermatologiques
+09;09M08;Affections dermatologiques sévères
+09;09M09;Affections non malignes des seins
+09;09M10;Tumeurs malignes des seins
+09;09M11;Tumeurs de la peau
+09;09M12;Explorations et surveillance des affections de la peau
+09;09M13;Explorations et surveillance des affections des seins
+09;09M14;Symptômes et autres recours aux soins concernant les affections de la peau
+09;09M15;Symptômes et autres recours aux soins concernant les affections des seins
+09;09Z02;Chirurgie esthétique
+10;10C02;Interventions sur l'hypophyse
+10;10C03;Interventions sur les glandes surrénales
+10;10C05;Interventions sur les parathyroïdes
+10;10C07;Interventions sur le tractus thyréoglosse
+10;10C08;Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels
+10;10C09;Gastroplasties pour obésité
+10;10C10;Autres interventions pour obésité
+10;10C11;Interventions sur la thyroïde pour tumeurs malignes
+10;10C12;Interventions sur la thyroïde pour affections non malignes
+10;10C13;Interventions digestives autres que les gastroplasties, pour obésité
+10;10M02;Diabète, âge supérieur à 35 ans
+10;10M03;Diabète, âge inférieur à 36 ans
+10;10M07;Autres troubles endocriniens
+10;10M08;Acidocétose et coma diabétique
+10;10M09;Obésité
+10;10M10;Maladies métaboliques congénitales sévères
+10;10M11;Autres maladies métaboliques congénitales
+10;10M12;Tumeurs des glandes endocrines
+10;10M13;Explorations et surveillance pour affections endocriniennes et métaboliques
+10;10M14;Symptômes et autres recours aux soins de la CMD 10
+10;10M15;Troubles métaboliques, âge inférieur à 18 ans
+10;10M16;Troubles métaboliques, âge supérieur à 17 ans
+10;10M17;Troubles nutritionnels divers, âge inférieur à 18 ans
+10;10M18;Troubles nutritionnels divers, âge supérieur à 17 ans
+10;10M19;Autres affections de la CMD 10 concernant majoritairement la petite enfance
+10;10M20;Problèmes alimentaires du nouveau-né et du nourrisson
+11;11C02;Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale
+11;11C03;Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale
+11;11C04;Autres interventions sur la vessie à l'exception des interventions transurétrales
+11;11C06;Interventions sur l'urètre, âge inférieur à 18 ans
+11;11C07;Interventions sur l'urètre, âge supérieur à 17 ans
+11;11C08;Autres interventions sur les reins et les voies urinaires
+11;11C09;Créations et réfections de fistules artérioveineuses pour affections de la CMD 11
+11;11C10;Interventions pour incontinence urinaire en dehors des interventions transurétrales
+11;11C11;Interventions par voie transurétrale ou transcutanée pour lithiases urinaires
+11;11C12;Injections de toxine botulique dans l'appareil urinaire
+11;11C13;Interventions par voie transurétrale ou transcutanée pour des affections non lithiasiques
+11;11K02;Insuffisance rénale, avec dialyse
+11;11K03;Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 11 et de moins de 2 jours
+11;11K04;Séjours de la CMD 11 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours
+11;11K05;Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 11 et de moins de 2 jours
+11;11K06;Séjours de la CMD 11 comprenant une endoscopie génito-urinaire diagnostique sans anesthésie : séjours de moins de 2 jours
+11;11K07;Séjours de la CMD 11 comprenant la mise en place de certains accès vasculaires, en ambulatoire
+11;11K08;Lithotritie extracorporelle de l'appareil urinaire, en ambulatoire
+11;11M02;Lithiases urinaires
+11;11M03;Infections des reins et des voies urinaires, âge inférieur à 18 ans
+11;11M04;Infections des reins et des voies urinaires, âge supérieur à 17 ans
+11;11M06;Insuffisance rénale, sans dialyse
+11;11M07;Tumeurs des reins et des voies urinaires
+11;11M08;Autres affections des reins et des voies urinaires, âge inférieur à 18 ans
+11;11M10;Rétrécissement urétral
+11;11M11;Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans
+11;11M12;Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans
+11;11M15;Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans
+11;11M16;Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans
+11;11M17;Surveillances de greffes de rein
+11;11M18;Explorations et surveillance pour affections du rein et des voies urinaires
+11;11M19;Autres symptômes et recours aux soins de la CMD 11
+11;11M20;Autres affections uronéphrologiques concernant majoritairement la petite enfance
+12;12C03;Interventions sur le pénis
+12;12C04;Prostatectomies transurétrales
+12;12C05;Interventions sur les testicules pour tumeurs malignes
+12;12C06;Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans
+12;12C07;Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans
+12;12C08;Circoncision
+12;12C09;Autres interventions pour tumeurs malignes de l'appareil génital masculin
+12;12C10;Autres interventions pour affections non malignes de l'appareil génital masculin
+12;12C11;Interventions pelviennes majeures chez l'homme pour tumeurs malignes
+12;12C12;Interventions pelviennes majeures chez l'homme pour affections non malignes
+12;12C13;Stérilisation et vasoplastie
+12;12K02;Endoscopies génito-urinaires et anesthésie : séjours de la CMD 12 et de moins de deux jours
+12;12K03;Séjours de la CMD 12 comprenant une endoscopie génito-urinaire sans anesthésie : séjours de moins de deux jours
+12;12K06;Séjours comprenant une biopsie prostatique, en ambulatoire
+12;12M03;Tumeurs malignes de l'appareil génital masculin
+12;12M04;Hypertrophie prostatique bénigne
+12;12M05;Autres affections de l'appareil génital masculin
+12;12M06;Prostatites aigües et orchites
+12;12M07;Autres infections et inflammations de l'appareil génital masculin
+12;12M08;Explorations et surveillance des affections de l'appareil génital masculin
+12;12M09;Symptômes et autres recours aux soins de la CMD 12
+13;13C03;Hystérectomies
+13;13C04;Interventions réparatrices sur l'appareil génital féminin
+13;13C05;Interventions sur le système utéroannexiel pour tumeurs malignes
+13;13C06;Interruptions tubaires
+13;13C07;Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires
+13;13C08;Interventions sur la vulve, le vagin ou le col utérin
+13;13C09;Laparoscopies ou coelioscopies diagnostiques
+13;13C10;Ligatures tubaires par laparoscopie ou coelioscopie
+13;13C11;Dilatations et curetages, conisations pour tumeurs malignes
+13;13C12;Dilatations et curetages, conisations pour affections non malignes
+13;13C13;Autres interventions sur l'appareil génital féminin
+13;13C14;Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes
+13;13C15;Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes
+13;13C16;Prélèvements d'ovocytes, en ambulatoire
+13;13C17;Cervicocystopexie
+13;13C18;Myomectomies de l'utérus
+13;13C19;Interventions pour stérilité ou motifs de soins liés à la reproduction
+13;13C20;Exérèses ou destructions de lésions du col de l'utérus sauf conisations
+13;13K02;Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
+13;13K03;Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours
+13;13K04;Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
+13;13K05;Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CMD 13 et de moins de 2 jours
+13;13K06;Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, avec anesthésie, en ambulatoire
+13;13M03;Tumeurs malignes de l'appareil génital féminin
+13;13M04;Autres affections de l'appareil génital féminin
+13;13M05;Infections de l'utérus et de ses annexes
+13;13M06;Autres infections de l'appareil génital féminin
+13;13M07;Autres tumeurs de l'appareil génital féminin
+13;13M08;Assistance médicale à la procréation
+13;13M09;Explorations et surveillance gynécologiques
+13;13M10;Autres symptômes et recours aux soins de la CMD 13
+14;14C03;Accouchements uniques par voie basse avec autres interventions
+14;14C04;Affections du post-partum ou du post abortum avec intervention chirurgicale
+14;14C05;Avortements avec aspiration ou curetage ou hystérotomie
+14;14C06;Césariennes avec naissance d'un mort-né
+14;14C07;Césariennes pour grossesse multiple
+14;14C08;Césariennes pour grossesse unique
+14;14C09;Grossesses ectopiques avec intervention chirurgicale
+14;14C10;Affections de l'ante partum avec intervention chirurgicale
+14;14M02;Affections médicales du post-partum ou du post-abortum
+14;14M03;Affections de l'ante partum sans intervention chirurgicale
+14;14Z04;Avortements sans aspiration, ni curetage, ni hystérotomie
+14;14Z06;Menaces d'avortement
+14;14Z08;Interruptions volontaires de grossesse : séjours de moins de 3 jours
+14;14Z09;Accouchements hors de l'établissement
+14;14Z10;Accouchements par voie basse avec naissance d'un mort-né
+14;14Z11;Accouchements multiples par voie basse chez une primipare
+14;14Z12;Accouchements multiples par voie basse chez une multipare
+14;14Z13;Accouchements uniques par voie basse chez une primipare
+14;14Z14;Accouchements uniques par voie basse chez une multipare
+14;14Z15;Grossesses ectopiques sans intervention chirurgicale
+14;14Z16;Faux travail et menaces d'accouchements prématurés
+15;15C02;Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7
+15;15C03;Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7
+15;15C04;Autres interventions chirurgicales, groupes nouveau-nés 1 à 7
+15;15C05;Interventions chirurgicales, groupes nouveau-nés 8 à 9
+15;15C06;Interventions chirurgicales, groupe nouveau-nés 10
+15;15M02;Transferts précoces de nouveau-nés vers un autre établissement MCO
+15;15M03;Décès précoces de nouveau-nés
+15;15M04;Décès tardifs de nouveau-nés
+15;15M05;Nouveau-nés de 3300g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1)
+15;15M06;Nouveau-nés de 2400g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2)
+15;15M07;Nouveau-nés de 2200g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3)
+15;15M08;Nouveau-nés de 2000g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4)
+15;15M09;Nouveau-nés de 1800g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5)
+15;15M10;Nouveau-nés de 1700g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6)
+15;15M11;Nouveau-nés de 1500g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7)
+15;15M12;Nouveau-nés de 1300g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8)
+15;15M13;Nouveau-nés de 1100g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9)
+15;15M14;Nouveau-nés de 800g et âge gestationnel de 28 SA et assimilés (groupe nouveau-nés 10)
+15;15Z10;Mort-nés
+16;16C02;Interventions sur la rate
+16;16C03;Autres interventions pour affections du sang et des organes hématopoïétiques
+16;16M06;Affections de la rate
+16;16M07;Donneurs de moelle
+16;16M08;Déficits immunitaires
+16;16M09;Autres affections du système réticuloendothélial ou immunitaire
+16;16M10;Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans
+16;16M11;Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans
+16;16M12;Purpuras
+16;16M13;Autres troubles de la coagulation
+16;16M14;Explorations et surveillance pour affections du sang et des organes hématopoïétiques
+16;16M15;Symptômes et autres recours aux soins de la CMD 16
+16;16M16;Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans
+16;16M17;Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans
+16;16M18;Autres affections hématologiques concernant majoritairement la petite enfance
+17;17C06;Interventions majeures de la CMD17
+17;17C07;Interventions intermédiaires de la CMD17
+17;17C08;Interventions mineures de la CMD17
+17;17K04;Autres irradiations
+17;17K05;Curiethérapies de la prostate par implants permanents
+17;17K07;Affections myéloprolifératives et tumeurs de siège imprécis sans acte opératoire, avec anesthésie, en ambulatoire
+17;17K08;Autres curiethérapies
+17;17K09;Irradiations internes
+17;17M05;Chimiothérapie pour leucémie aigüe
+17;17M06;Chimiothérapie pour autre tumeur
+17;17M08;Leucémies aigües, âge inférieur à 18 ans
+17;17M09;Leucémies aigües, âge supérieur à 17 ans
+17;17M14;Explorations et surveillance pour affections myéloprolifératives et tumeurs de siège imprécis ou diffus
+17;17M15;Lymphomes et autres affections malignes lymphoïdes
+17;17M16;Hémopathies myéloïdes chroniques
+17;17M17;Autres affections et tumeurs de siège imprécis ou diffus
+18;18C02;Interventions pour maladies infectieuses ou parasitaires
+18;18M02;Maladies virales et fièvres d'étiologie indéterminée, âge inférieur à 18 ans
+18;18M03;Maladies virales, âge supérieur à 17 ans
+18;18M04;Fièvres d'étiologie indéterminée, âge supérieur à 17 ans
+18;18M06;Sepsis, âge inférieur à 18 ans
+18;18M07;Sepsis, âge supérieur à 17 ans
+18;18M09;Paludisme
+18;18M10;Maladies infectieuses sévères
+18;18M11;Autres maladies infectieuses ou parasitaires
+18;18M12;Explorations et surveillance pour maladies infectieuses ou parasitaires
+18;18M13;Affections de la CMD 18 avec décès : séjours de moins de 2 jours
+18;18M14;Symptômes et autres recours aux soins de la CMD 18
+18;18M15;Autres maladies infectieuses concernant majoritairement la petite enfance
+19;19C02;Interventions chirurgicales avec un diagnostic principal de maladie mentale
+19;19M02;Troubles aigus de l'adaptation et du fonctionnement psychosocial
+19;19M06;Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans
+19;19M07;Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans
+19;19M10;Névroses autres que les névroses dépressives
+19;19M11;Névroses dépressives
+19;19M12;Anorexie mentale et boulimie
+19;19M13;Autres troubles de la personnalité et du comportement avec réactions impulsives
+19;19M14;Troubles bipolaires et syndromes dépressifs sévères
+19;19M15;Autres psychoses, âge supérieur à 79 ans
+19;19M16;Autres psychoses, âge inférieur à 80 ans
+19;19M17;Maladies et troubles du développement psychologiques de l'enfance
+19;19M18;Autres maladies et troubles mentaux de l'enfance
+19;19M19;Troubles de l'humeur
+19;19M20;Autres troubles mentaux
+19;19M21;Explorations et surveillance pour maladies et troubles mentaux
+19;19M22;Symptômes et autres recours aux soins de la CMD 19
+20;20Z02;Toxicomanies non éthyliques avec dépendance
+20;20Z03;Abus de drogues non éthyliques sans dépendance
+20;20Z04;Ethylisme avec dépendance
+20;20Z05;Ethylisme aigu
+20;20Z06;Troubles mentaux organiques induits par l'alcool ou d'autres substances
+21;21C04;Interventions sur la main ou le poignet à la suite de blessures
+21;21C05;Autres interventions pour blessures ou complications d'acte
+21;21C06;Greffes de peau ou parages de plaies pour lésions autres que des brûlures
+21;21K02;Traumatismes, allergies et empoisonnements sans acte opératoire, avec anesthésie, en ambulatoire
+21;21M02;Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans
+21;21M04;Réactions allergiques non classées ailleurs, âge inférieur à 18 ans
+21;21M05;Réactions allergiques non classées ailleurs, âge supérieur à 17 ans
+21;21M06;Traumatismes imprécis, âge inférieur à 18 ans
+21;21M07;Traumatismes imprécis, âge supérieur à 17 ans
+21;21M10;Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans
+21;21M11;Effets toxiques des autres substances chimiques
+21;21M12;Autres effets toxiques
+21;21M13;Maltraitance
+21;21M14;Autres traumatismes et effets nocifs autres que les intoxications
+21;21M15;Rejets de greffe
+21;21M16;Autres complications iatrogéniques non classées ailleurs
+22;22C02;Brûlures non étendues avec greffe cutanée
+22;22C03;Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales
+22;22K02;Brûlures sans acte opératoire, avec anesthésie, en ambulatoire
+22;22M02;Brûlures et gelures non étendues sans intervention chirurgicale
+22;22Z02;Brûlures étendues
+22;22Z03;Brûlures avec transfert vers un autre établissement MCO : séjours de moins de 2 jours
+23;23C02;Interventions chirurgicales avec autres motifs de recours aux services de santé
+23;23K02;Explorations nocturnes et apparentées : séjours de moins de 2 jours
+23;23K03;Motifs de recours de la CMD 23 sans acte opératoire, avec anesthésie, en ambulatoire
+23;23M02;Rééducation
+23;23M06;Autres facteurs influant sur l'état de santé
+23;23M07;Autres motifs de recours pour infection à VIH, en ambulatoire
+23;23M08;Autres motifs de recours chez un patient diabétique, en ambulatoire
+23;23M09;Chimiothérapie pour affections non tumorales
+23;23M10;Soins de contrôle chirurgicaux
+23;23M11;Autres motifs concernant majoritairement la petite enfance
+23;23M14;Traitements prophylactiques
+23;23M15;Actes non effectués en raison d'une contre-indication
+23;23M16;Convalescences et autres motifs sociaux
+23;23M19;Explorations et surveillance pour autres motifs de recours aux soins
+23;23M20;Autres symptômes et motifs de recours aux soins de la CMD 23
+23;23M21;Désensibilisations et tests allergologiques nécessitant une hospitalisation
+23;23Z02;Soins Palliatifs, avec ou sans acte
+23;23Z03;Interventions de confort et autres interventions non prises en charge par l'assurance maladie obligatoire
+25;25C02;Interventions pour maladie due au VIH
+25;25M02;Autres maladies dues au VIH
+25;25Z02;Maladies dues au VIH, avec décès
+25;25Z03;Maladies dues au VIH, âge inférieur à 13 ans
+26;26C02;Interventions pour traumatismes multiples graves
+26;26M02;Traumatismes multiples graves
+27;27C02;Transplantations hépatiques
+27;27C03;Transplantations pancréatiques
+27;27C04;Transplantations pulmonaires
+27;27C05;Transplantations cardiaques
+27;27C06;Transplantations rénales
+27;27C07;Autres transplantations
+27;27Z02;Allogreffes de cellules souches hématopoïétiques
+27;27Z03;Autogreffes de cellules souches hématopoïétiques
+27;27Z04;Greffes de cellules souches hématopoïétiques, en ambulatoire
+28;28Z01;Entraînements à la dialyse péritonéale automatisée, en séances
+28;28Z02;Entraînements à la dialyse péritonéale continue ambulatoire, en séances
+28;28Z03;Entraînements à l'hémodialyse, en séances
+28;28Z04;Hémodialyse, en séances
+28;28Z07;Chimiothérapie pour tumeur, en séances
+28;28Z10;Curiethérapie, en séances
+28;28Z11;Techniques spéciales d'irradiation externe, en séances
+28;28Z14;Transfusions, en séances
+28;28Z15;Oxygénothérapie hyperbare, en séances
+28;28Z16;Aphérèses sanguines, en séances
+28;28Z17;Chimiothérapie pour affection non tumorale, en séances
+28;28Z18;Radiothérapie conformationnelle avec modulation d'intensité, en séances
+28;28Z19;Préparations à une irradiation externe par RCMI ou techniques spéciales
+28;28Z20;Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec HDV
+28;28Z21;Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans HDV
+28;28Z22;Autres préparations à une irradiation externe
+28;28Z23;Techniques complexes d'irradiation externe avec repositionnement, en séances
+28;28Z24;Techniques complexes d'irradiation externe sans repositionnement, en séances
+28;28Z25;Autres techniques d'irradiation externe, en séances

@@ -1,0 +1,931 @@
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+01C03,,,,1-4,,D-092;D-336,2,X,,"Craniotomies pour traumatisme, âge supérieur à 17 ans"
+01C04,,,,1-4,,D-336,2,X,,"Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans"
+01C05,,79(1),,1-4,,D-336,2,X,,Interventions sur le rachis et la moelle pour des affections neurologiques
+01C06,,,,1-4,,D-336,2,X,,Interventions sur le système vasculaire précérébral
+01C08,,,J,1-4,,D-336,,,,Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le
+"",,,,,,,,,,système nerveux
+01C09,,,,1-4,,D-336,2,X,,Pose d'un stimulateur cérébral
+01C10,,,J,1-4,,D-336,,X,,Pose d'un stimulateur médullaire
+01C11,,,,1-4,,D-039;D-336,2,X,,"Craniotomies pour tumeurs, âge inférieur à 18 ans"
+01C12,,,,1-4,,D-336,2,X,,"Craniotomies pour affections non tumorales, âge inférieur à 18 ans"
+01C14,,,J,1-4,,D-336,,,,Libérations de nerfs superficiels à l'exception du médian au canal carpien
+01C15,,,J,1-4,,D-336,,,,Libérations du médian au canal carpien
+01K02,,79(1-3),,1-4,,D-337,1,,,Autres embolisations intracrâniennes et médullaires
+01K03,,,,1-4,,D-337,1,,,Autres actes thérapeutiques par voie vasculaire du système nerveux
+01K04,,,J,,,,,,,"Injections de toxine botulique, en ambulatoire"
+01K05,,,J,,,,,,,Séjours pour douleurs chroniques rebelles comprenant un bloc ou une
+"",,,,,,,,,,"infiltration, en ambulatoire"
+01K06,,,J,,,,,,,"Affections du système nerveux sans acte opératoire avec anesthésie, en"
+"",,,,,,,,,,ambulatoire
+01K07,,79(1),,1-4,,D-337,3,X,,Embolisations intracrâniennes et médullaires pour hémorragie
+01M04,,69(1-2),T1,1-4,,D-338,,,,Méningites virales
+01M05,,69(1-2),T0,1-4,,D-338,,,,Infections du système nerveux à l'exception des méningites virales
+01M07,,,T0,1-4,,D-338,,,,"Maladies dégénératives du système nerveux, âge supérieur à 79 ans"
+01M08,,,T0,1-4,,D-338,,,,"Maladies dégénératives du système nerveux, âge inférieur à 80 ans"
+01M09,,79(1-2),T0,1-4,,D-338,,,,Affections et lésions du rachis et de la moelle
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+01M10,,,T0,1-4,,D-338,,,,Autres affections cérébrovasculaires
+01M11,,,T1,1-4,,D-338,,,,Affections des nerfs crâniens et rachidiens
+01M12,,79(1),T1,1-4,,D-338,,,,Autres affections du système nerveux
+01M13,,,,1-4,,D-338,,X,,Troubles de la conscience et comas d'origine non traumatique
+01M15,,,T2,1-4,,D-338,,,,"Accidents ischémiques transitoires et occlusions des artères précérébrales, âge"
+"",,,,,,,,,,supérieur à 79 ans
+01M16,,,T2,1-4,,D-338,,,,"Accidents ischémiques transitoires et occlusions des artères précérébrales, âge"
+"",,,,,,,,,,inférieur à 80 ans
+01M17,,69(1-2),T0,1-4,,D-338,,,,Sclérose en plaques et ataxie cérébelleuse
+01M18,,,T1,1-4,,D-124;D-338,,X,,Lésions traumatiques intracrâniennes sévères
+01M19,,,,1-4,,D-125;D-338,,X,,"Autres lésions traumatiques intracrâniennes, sauf commotions"
+01M20,,,,1-4,,D-338,,,,Commotions cérébrales
+01M21,,79(1-2),T0,1-4,,D-338,,,,Douleurs chroniques rebelles
+01M22,,69(1-2),T0,1-4,,D-338,,,,Migraines et céphalées
+01M23,,79(1-3),,1-4,,D-338,,,,Convulsions hyperthermiques
+01M24,X,,T1,1-4,,D-338,,X,,"Epilepsie, âge inférieur à 18 ans"
+01M25,,,T1,1-4,,D-338,,X,,"Epilepsie, âge supérieur à 17 ans"
+01M26,,79(1-2),T1,1-4,,D-338,,,,Tumeurs malignes du système nerveux
+01M27,,79(1-3),T1,1-4,,D-338,,,,Autres tumeurs du système nerveux
+01M28,,,T0,1-4,,D-338,,,,Hydrocéphalies
+01M29,,69(1-2),,1-4,,D-338,,,,Anévrysmes cérébraux
+01M30,,,T1,1-4,,D-338,,X,,Accidents vasculaires intracérébraux non transitoires
+01M31,,,T1,1-4,,D-338,,X,,Autres accidents vasculaires cérébraux non transitoires
+01M32,,,,Z,,,,,,Explorations et surveillance pour affections du système nerveux
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+01M33,,79(1-3),,1-4,,D-338,,,,Troubles du sommeil
+01M34,,,T1,Z,,,,,,Anomalies de la démarche d'origine neurologique
+01M35,,,T1,Z,,,,,,Symptômes et autres recours aux soins de la CMD 01
+01M36,,,,,X,,,,,Accidents vasculaires cérébraux non transitoires avec décès : séjours de moins
+"",,,,,,,,,,de 2 jours
+01M37,,,,,X,,,,,Autres affections de la CMD 01 avec décès : séjours de moins de 2 jours
+01M38,,,,1-4,,D-338,,,,Autres affections neurologiques concernant majoritairement la petite enfance
+01M39,,,,1-4,,D-338,,,,Troubles de la régulation thermique du nouveau-né et du nourrisson
+02C02,,,J,1-4,,D-336;D-340,,,,Interventions sur la rétine
+02C03,,,J,1-4,,D-336;D-340,,,,Interventions sur l'orbite
+02C05,X,,J,1-4,,D-336;D-340,,,,Interventions sur le cristallin avec ou sans vitrectomie
+02C06,,,J,1-4,,D-336;D-340,,,,Interventions primaires sur l'iris
+02C07,,,J,1-4,,D-336;D-340,,,,"Autres interventions extraoculaires, âge inférieur à 18 ans"
+02C08,,,J,1-4,,D-336;D-340,,,,"Autres interventions extraoculaires, âge supérieur à 17 ans"
+02C09,,,J,1-4,,D-336;D-340,,,,Allogreffes de cornée
+02C10,,,J,1-4,,D-068;D-336;D-340,,,,Autres interventions intraoculaires pour affections sévères
+02C11,,,J,1-4,,D-336;D-340,,,,Autres interventions intraoculaires en dehors des affections sévères
+02C12,,,J,1-4,,D-336;D-340,,,,Interventions sur le cristallin avec trabéculectomie
+02C13,,,J,1-4,,D-336;D-340,,,,"Interventions sur les muscles oculomoteurs, âge inférieur à 18 ans"
+02M02,,69(1-2),,1-4,,D-338,,,,Hyphéma
+02M03,,69(1-2),,1-4,,D-338,,,,Infections oculaires aiguës sévères
+02M04,,,T0,1-4,,D-338,,,,Affections oculaires d'origine neurologique
+02M05,,,T0,1-4,,D-338,,,,"Autres affections oculaires, âge inférieur à 18 ans"
+02M07,,79(1-3),T0,1-4,,D-338,,,,"Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans"
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+02M08,,,T0,1-4,,D-338,,,,"Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans"
+02M09,,,,Z,,,,,,Explorations et surveillance pour affections de l'oeil
+02M10,,,T1,Z,,,,,,Symptômes et autres recours aux soins de la CMD 02
+03C05,,,T2,1-4,,D-336,,,,Réparations de fissures labiale et palatine
+03C06,X,,J,1-4,,D-336,,,,"Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans"
+03C07,,,J,1-4,,D-336,,,,"Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans"
+03C09,X,,J,1-4,,D-336,,,,Rhinoplasties
+03C10,,,,1-4,,D-336,,,,"Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans"
+03C11,,,,1-4,,D-336,,,,"Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans"
+03C12,,,,1-4,,D-336,,,,Interventions sur les amygdales et les végétations adénoïdes autres que les
+"",,,,,,,,,,"amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans"
+03C13,,79(1-2),,1-4,,D-336,,,,Interventions sur les amygdales et les végétations adénoïdes autres que les
+"",,,,,,,,,,"amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans"
+03C14,,,J,1-4,,D-336,,,,"Drains transtympaniques, âge inférieur à 18 ans"
+03C15,,,J,1-4,,D-336,,,,"Drains transtympaniques, âge supérieur à 17 ans"
+03C16,,,J,1-4,,D-336,,,,"Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le"
+"",,,,,,,,,,cou
+03C17,,79(1),J,1-4,,D-336,,,,Interventions sur la bouche
+03C18,,79(1-2),,1-4,,D-336,,,,Pose d'implants cochléaires
+03C19,X,,J,1-4,,D-336,,,,Ostéotomies de la face
+03C20,,,J,1-4,,D-336,,,,Interventions de reconstruction de l'oreille moyenne
+03C21,,,J,1-4,,D-336,,,,Interventions pour oreilles décollées
+03C24,,79(1),J,1-4,,D-336,,,,Interventions sur les glandes salivaires
+03C25,,,,1-4,,D-336,2,,,Interventions majeures sur la tête et le cou
+03C26,,,,1-4,,D-336,1,,,Autres interventions sur la tête et le cou
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+03C27,,,J,,,,,,,"Interventions sur les amygdales, en ambulatoire"
+03C28,,,J,,,,,,,"Interventions sur les végétations adénoïdes, en ambulatoire"
+03C29,,,J,1-4,,D-336,,,,"Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes"
+03C30,,,J,1-4,,D-336,,,,Interventions sur l'oreille externe
+03K02,,,J,1-4,,D-337,,,,"Affections de la bouche et des dents avec certaines extractions, réparations et"
+"",,,,,,,,,,prothèses dentaires
+03K03,,,J,,,,,,,"Séjours comprenant une endoscopie oto-rhino-laryngologique, en ambulatoire"
+03K04,,,J,,,,,,,"Séjours comprenant certains actes non opératoires de la CMD 03, en ambulatoire"
+03M02,,,T0,1-4,,D-338,,,,Traumatismes et déformations du nez
+03M03,,,T1,1-4,,D-338,,,,"Otites moyennes et autres infections des voies aériennes supérieures, âge"
+"",,,,,,,,,,inférieur à 18 ans
+03M04,,79(1-3),T1,1-4,,D-338,,,,"Otites moyennes et autres infections des voies aériennes supérieures, âge"
+"",,,,,,,,,,supérieur à 17 ans
+03M05,,69(1-2),T1,1-4,,D-338,,,,Troubles de l'équilibre
+03M06,,,T1,1-4,,D-338,,,,Epistaxis
+03M07,,,T0,1-4,,D-338,,,,"Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche"
+03M08,,,T1,1-4,,D-338,,,,"Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge"
+"",,,,,,,,,,inférieur à 18 ans
+03M09,,79(1-3),T1,1-4,,D-338,,,,"Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge"
+"",,,,,,,,,,supérieur à 17 ans
+03M10,,,T0,1-4,,D-338,,,,"Affections de la bouche et des dents sans certaines extractions, réparations ou"
+"",,,,,,,,,,"prothèses dentaires, âge inférieur à 18 ans"
+03M11,,,T0,1-4,,D-338,,,,"Affections de la bouche et des dents sans certaines extractions, réparations ou"
+"",,,,,,,,,,"prothèses dentaires, âge supérieur à 17 ans"
+03M12,,,,1-4,,D-338,,,,"Infections aigües sévères des voies aériennes supérieures, âge inférieur à 18 ans"
+03M13,,79(1-3),,1-4,,D-338,,,,"Infections aigües sévères des voies aériennes supérieures, âge supérieur à 17 ans"
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+03M14,,,,Z,,,,,,Explorations et surveillance pour affections ORL
+03M15,,,T1,Z,,,,,,Symptômes et autres recours aux soins de la CMD 03
+04C02,,,,1-4,,D-336,3,,,Interventions majeures sur le thorax
+04C03,,,,1-4,,D-336,,,,Autres interventions chirurgicales sur le système respiratoire
+04C04,,,,1-4,,D-336,3,,,Interventions sous thoracoscopie
+04K02,,,J,,,,,,,"Séjours comprenant une endoscopie bronchique, en ambulatoire"
+04M02,,,T1,1-4,,D-338,,,,"Bronchites et asthme, âge inférieur à 18 ans"
+04M03,,69(1-2),T1,1-4,,D-338,,,,"Bronchites et asthme, âge supérieur à 17 ans"
+04M04,,,,1-4,,D-338,,,,"Pneumonies et pleurésies banales, âge inférieur à 18 ans"
+04M05,,,T1,1-4,,D-338,,,,"Pneumonies et pleurésies banales, âge supérieur à 17 ans"
+04M06,,,T1,1-4,,D-338,,,,"Infections et inflammations respiratoires, âge inférieur à 18 ans"
+04M07,,,T1,1-4,,D-338,,,,"Infections et inflammations respiratoires, âge supérieur à 17 ans"
+04M08,,,T0,1-4,,D-338,,,,Bronchopneumopathies chroniques
+04M09,,,T1,1-4,,D-338,,,,Tumeurs de l'appareil respiratoire
+04M10,,79(1-2),T2,1-4,,D-338,,,,Embolies pulmonaires
+04M11,,69(1-2),,1-4,,D-338,,,,Signes et symptômes respiratoires
+04M12,,69(1-2),T1,1-4,,D-338,,,,Pneumothorax
+04M13,,,T0,1-4,,D-338,,,,Oedème pulmonaire et détresse respiratoire
+04M14,,79(1-2),T0,1-4,,D-338,,,,Maladies pulmonaires interstitielles
+04M15,,79(1-2),T1,1-4,,D-338,,,,Autres diagnostics portant sur le système respiratoire
+04M16,,69(1-2),T2,1-4,,D-338,,,,Traumatismes thoraciques
+04M17,,79(1-3),T0,1-4,,D-338,,,,Epanchements pleuraux
+04M18,,79(1-3),T2,1-4,,D-338,,,,Bronchiolites
+04M19,,,T0,1-4,,D-338,,,,Tuberculoses
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+04M20,,,T0,1-4,,D-338,,,,Bronchopneumopathies chroniques surinfectées
+04M21,,69(1-2),,1-4,,D-338,,,,Suivis de greffe pulmonaire
+04M22,,,,Z,,,,,,Explorations et surveillance pour affections de l'appareil respiratoire
+04M23,,,T0,Z,,,,,,Autres symptômes et recours aux soins de la CMD 04
+04M24,,,,,X,,,,,Affections de la CMD 04 avec décès : séjours de moins de 2 jours
+04M25,,69(1-2),T1,1-4,,D-338,,,,Grippes
+04M26,,79(1-3),T0,1-4,,D-338,,,,Fibroses kystiques avec manifestations pulmonaires
+04M27,,,,1-4,,D-338,,,,Autres affections respiratoires concernant majoritairement la petite enfance
+05C02,,,,1-4,,D-336,3,,,Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec
+"",,,,,,,,,,cathétérisme cardiaque ou coronarographie
+05C03,,,,1-4,,D-336,3,,,"Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans"
+"",,,,,,,,,,"cathétérisme cardiaque, ni coronarographie"
+05C04,,,,1-4,,D-336,3,,,Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie
+05C05,,,,1-4,,D-336,3,,,"Pontages aortocoronariens sans cathétérisme cardiaque, ni coronarographie"
+05C06,,,,1-4,,D-336,2,,,"Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel"
+"",,,,,,,,,,"que soit l'âge, avec circulation extracorporelle"
+05C07,,,,1-4,,D-336,3,,,"Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation"
+"",,,,,,,,,,extracorporelle
+05C08,,,T1,1-4,,D-336,,,,"Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel"
+"",,,,,,,,,,"que soit l'âge, sans circulation extracorporelle"
+05C09,,,,1-4,,D-336,,,,"Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation"
+"",,,,,,,,,,extracorporelle
+05C10,,,,1-4,,D-336,,,,Chirurgie majeure de revascularisation
+05C11,,,,1-4,,D-336,,,,Autres interventions de chirurgie vasculaire
+05C12,,,,1-4,,D-336,3,,,"Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires"
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+05C13,,,J,1-4,,D-336,,,,Amputations pour troubles circulatoires portant sur le membre supérieur ou les
+"",,,,,,,,,,orteils
+05C14,,,,1-4,,D-093;D-336,,,,Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou
+"",,,,,,,,,,insuffisance cardiaque congestive ou état de choc
+05C15,,,T1,1-4,,D-336,,,,"Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni"
+"",,,,,,,,,,"insuffisance cardiaque congestive, ni état de choc"
+05C17,,,J,1-4,,D-336,,,,Ligatures de veines et éveinages
+05C18,,,J,1-4,,D-336,,,,Autres interventions sur le système circulatoire
+05C19,,,T1,1-4,,D-336,,,,Poses d'un défibrillateur cardiaque
+05C20,,,,1-4,,D-336,,,,Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de
+"",,,,,,,,,,boîtier de stimulation cardiaque permanente
+05C21,,,J,1-4,,D-336,,,,Créations et réfections de fistules artérioveineuses pour affections de la CMD 05
+05C22,,,T1,1-4,,D-336,,,,Remplacements de stimulateurs cardiaques permanents
+05K05,,,,1-4,,D-102;D-337,,,,Endoprothèses vasculaires avec infarctus du myocarde
+05K06,,,T1,1-4,,D-337,,,,Endoprothèses vasculaires sans infarctus du myocarde
+05K10,,,J,1-4,,D-337,,,,Actes diagnostiques par voie vasculaire
+05K12,,,,1-4,,D-337,,,,"Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18"
+"",,,,,,,,,,ans
+05K14,,,,Z,,,,,,"Mise en place de certains accès vasculaires pour des affections de la CMD 05,"
+"",,,,,,,,,,séjours de moins de 2 jours
+05K15,,,J,1-4,,D-337,,,,Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire
+05K17,,,J,,,,,,,"Affections cardiovasculaires sans acte opératoire de la CMD 05, avec anesthésie,"
+"",,,,,,,,,,en ambulatoire
+05K19,,79(1-3),,1-4,,D-337,,,,Traitements majeurs de troubles du rythme par voie vasculaire
+05K20,,,T1,1-4,,D-337,,,,Autres traitements de troubles du rythme par voie vasculaire
+05K21,,,,1-4,,D-337,,,,Poses de bioprothèses de valves cardiaques par voie vasculaire
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+05K22,,,,1-4,,D-337,,,,"Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supérieur"
+"",,,,,,,,,,à 17 ans
+05K23,,,J,1-4,,D-337,,,,"Ablations, repositionnements et poses de sondes cardiaques supplémentaires par"
+"",,,,,,,,,,"voie vasculaire, âge supérieur à 17 ans"
+05K24,,,J,1-4,,D-337,,,,Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie
+"",,,,,,,,,,"vasculaire, âge supérieur à 17 ans"
+05K25,,,J,1-4,,D-337,,,,"Actes thérapeutiques sur les artères par voie vasculaire, âge supérieur à 17 ans"
+05K26,,,J,1-4,,D-337,,,,"Actes thérapeutiques sur les accès vasculaires ou les veines par voie vasculaire,"
+"",,,,,,,,,,âge supérieur à 17 ans
+05M04,,,T1,1-4,,D-102;D-338,,,,Infarctus aigu du myocarde
+05M05,,79(1-3),T1,1-4,,D-338,,,,Syncopes et lipothymies
+05M06,,79(1-3),T0,1-4,,D-338,,,,Angine de poitrine
+05M07,,69(1-2),T2,1-4,,D-338,,,,Thrombophlébites veineuses profondes
+05M08,,79(1-3),T1,1-4,,D-338,,,,Arythmies et troubles de la conduction cardiaque
+05M09,,,T2,1-4,,D-338,,,,Insuffisances cardiaques et états de choc circulatoire
+05M10,,,T0,1-4,,D-338,,,,"Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans"
+05M11,,,T1,1-4,,D-338,,,,"Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans"
+05M12,,,T1,1-4,,D-338,,,,Troubles vasculaires périphériques
+05M13,,69(1-2),T1,1-4,,D-338,,,,Douleurs thoraciques
+05M14,,,,1-4,,D-338,,,,Arrêt cardiaque
+05M15,,79(1-3),T1,1-4,,D-338,,,,Hypertension artérielle
+05M16,,79(1-3),T0,1-4,,D-338,,,,Athérosclérose coronarienne
+05M17,,,T1,1-4,,D-338,,,,Autres affections de l'appareil circulatoire
+05M18,,,T2,1-4,,D-338,,,,Endocardites aiguës et subaiguës
+05M19,,,,1-4,,D-338,,,,Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+05M20,,,,Z,,,,,,Explorations et surveillance pour affections de l'appareil circulatoire
+05M21,,,,,X,,,,,Infarctus aigu du myocarde avec décès : séjours de moins de 2 jours
+05M22,,,,,X,,,,,Autres affections de la CMD 05 avec décès : séjours de moins de 2 jours
+05M23,,,T0,Z,,,,,,Symptômes et autres recours aux soins de la CMD 05
+06C03,,79(1),,1-4,,D-078;D-336,3,,,Résections rectales
+06C04,,79(1-2),,1-4,,D-078;D-336,2,,,Interventions majeures sur l'intestin grêle et le côlon
+06C05,,,,1-4,,D-336,2,,,"Interventions sur l'oesophage, l'estomac et le duodénum, âge inférieur à 18 ans"
+06C07,,,,1-4,,D-336,,,,Interventions mineures sur l'intestin grêle et le côlon
+06C08,X,69(1-2),,1-4,,D-094;D-336,1,,,Appendicectomies compliquées
+06C09,,69(1-2),,1-4,,D-336,1,,,Appendicectomies non compliquées
+06C10,,,J,1-4,,D-336,,,,"Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans"
+06C12,,79(1-3),J,1-4,,D-336,,,,"Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17"
+"",,,,,,,,,,ans
+06C13,X,69(1-2),,1-4,,D-336,1,,,Libérations d'adhérences péritonéales
+06C14,,79(1-3),J,1-4,,D-336,,,,Interventions sur le rectum et l'anus autres que les résections rectales
+06C15,,79(1-3),,1-4,,D-336,,,,Autres interventions sur le tube digestif en dehors des laparotomies
+06C16,,79(1-2),,1-4,,D-040;D-336,3,,,"Interventions sur l'oesophage, l'estomac et le duodénum pour tumeurs malignes,"
+"",,,,,,,,,,âge supérieur à 17 ans
+06C19,,79(1-3),J,1-4,,D-336,,,,Hémorroïdectomies
+06C20,,79(1-2),,1-4,,D-065;D-336,3,,,"Interventions sur l'oesophage, l'estomac et le duodénum pour ulcères, âge"
+"",,,,,,,,,,supérieur à 17 ans
+06C21,,,,1-4,,D-336,,,,Autres interventions sur le tube digestif par laparotomie
+06C22,,69(1-2),,1-4,,D-336,1,,,"Interventions sur l'oesophage, l'estomac et le duodénum pour affections autres"
+"",,,,,,,,,,"que malignes ou ulcères, âge supérieur à 17 ans"
+06C23,,,J,1-4,,D-078;D-336,,,,Certaines interventions pour stomies
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+06C24,,69(1),J,1-4,,D-336,,,,"Cures d'éventrations postopératoires, âge supérieur à 17 ans"
+06C25,,79(1),J,1-4,,D-336,,,,"Interventions réparatrices pour hernies à l'exception des hernies inguinales,"
+"",,,,,,,,,,"crurales, âge supérieur à 17 ans"
+06K02,,,,Z,,,,,,Endoscopies digestives thérapeutiques et anesthésie : séjours de moins de 2 jours
+06K03,,,J,,,,,,,"Séjours comprenant une endoscopie digestive thérapeutique sans anesthésie, en"
+"",,,,,,,,,,ambulatoire
+06K04,,,J,,,,,,,"Endoscopie digestive diagnostique et anesthésie, en ambulatoire"
+06K05,,,J,,,,,,,"Séjours comprenant une endoscopie digestive diagnostique sans anesthésie, en"
+"",,,,,,,,,,ambulatoire
+06K06,,,J,,,,,,,"Affections digestives sans acte opératoire de la CMD 06, avec anesthésie, en"
+"",,,,,,,,,,ambulatoire
+06M02,,,T1,1-4,,D-338,,,,"Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18"
+"",,,,,,,,,,ans
+06M03,,,T1,1-4,,D-338,,,,"Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17"
+"",,,,,,,,,,ans
+06M04,,,T1,1-4,,D-338,,,,Hémorragies digestives
+06M05,,,T1,1-4,,D-338,,,,Autres tumeurs malignes du tube digestif
+06M06,,,T1,1-4,,D-338,,,,Occlusions intestinales non dues à une hernie
+06M07,,79(1-3),T0,1-4,,D-338,,,,Maladies inflammatoires de l'intestin
+06M08,X,,T1,1-4,,D-338,,,,"Autres affections digestives, âge inférieur à 18 ans"
+06M09,,,T1,1-4,,D-338,,,,"Autres affections digestives, âge supérieur à 17 ans"
+06M10,X,69(1),,1-4,,D-338,1,,,Ulcères gastroduodénaux compliqués
+06M11,,,T1,1-4,,D-338,,,,Ulcères gastroduodénaux non compliqués
+06M12,,69(1-2),T1,1-4,,D-338,,,,Douleurs abdominales
+06M13,,,T1,1-4,,D-338,,,,Tumeurs malignes de l'oesophage et de l'estomac
+06M14,,79(1-3),,1-4,,D-338,,,,Invaginations intestinales aigües
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+06M15,,,,Z,,,,,,Suivi de greffes de l'appareil digestif
+06M16,,,,Z,,,,,,Explorations et surveillance pour affections de l'appareil digestif
+06M17,,,T0,Z,,,,,,Soins de stomies digestives
+06M18,,,T1,Z,,,,,,Symptômes et autres recours aux soins de la CMD 06
+06M19,,79(1-3),,1-4,,D-338,1,,,Affections sévères du tube digestif
+06M20,,79(1-3),T1,1-4,,D-338,,,,Tumeurs bénignes de l'appareil digestif
+06M21,,,,1-4,,D-338,,,,Autres affections digestives concernant majoritairement la petite enfance
+07C06,,,,1-4,,D-0709;D-336,2,,,Interventions diagnostiques sur le système hépato-biliaire et pancréatique pour
+"",,,,,,,,,,affections malignes
+07C07,,,,1-4,,D-336,2,,,Interventions diagnostiques sur le système hépato-biliaire et pancréatique pour
+"",,,,,,,,,,affections non malignes
+07C08,,,,1-4,,D-336,2,,,Autres interventions sur le système hépato-biliaire et pancréatique
+07C09,,,,1-4,,D-041;D-336,2,X,,"Interventions sur le foie, le pancréas et les veines porte ou cave pour tumeurs"
+"",,,,,,,,,,malignes
+07C10,,,,1-4,,D-336,2,X,,"Interventions sur le foie, le pancréas et les veines porte ou cave pour affections"
+"",,,,,,,,,,non malignes
+07C11,X,,,1-4,,D-336,3,X,,Dérivations biliaires
+07C12,,79(1-2),,1-4,,D-336,2,X,,Autres interventions sur les voies biliaires sauf cholécystectomies isolées
+07C13,,79(1-2),,1-4,,D-066;D-336,1,X,,Cholécystectomies sans exploration de la voie biliaire principale pour affections
+"",,,,,,,,,,aigües
+07C14,,79(1-3),J,1-4,,D-336,,X,,Cholécystectomies sans exploration de la voie biliaire principale à l'exception
+"",,,,,,,,,,des affections aigües
+07K02,,,,Z,,,,,,Endoscopies biliaires thérapeutiques et anesthésie : séjours de moins de 2 jours
+07K04,,,J,,,,,,,"Endoscopie biliaire diagnostique et anesthésie, en ambulatoire"
+07K05,,,J,,,,,,,Séjours comprenant une endoscopie biliaire thérapeutique ou diagnostique sans
+"",,,,,,,,,,"anesthésie, en ambulatoire"
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+07K06,,,,1-4,,D-337,,,,Actes thérapeutiques par voie vasculaire pour des affections malignes du
+"",,,,,,,,,,système hépatobiliaire
+07M02,,,T1,1-4,,D-338,,,,Affections des voies biliaires
+07M04,,79(1),T0,1-4,,D-338,,,,Autres affections hépatiques
+07M06,,,T1,1-4,,D-338,,,,Affections malignes du système hépato-biliaire ou du pancréas
+07M07,,,T1,1-4,,D-338,,,,Cirrhoses alcooliques
+07M08,,,T0,1-4,,D-338,,,,Autres cirrhoses et fibrose hépatique
+07M09,,79(1-3),T0,1-4,,D-338,,,,Hépatites chroniques
+07M10,,,T2,1-4,,D-338,,,,Pancréatites aigües
+07M11,,,T1,1-4,,D-338,,,,Autres affections non malignes du pancréas
+07M12,X,,,1-4,,D-338,,,,Suivis de greffe de foie et de pancréas
+07M13,,,,Z,,,,,,Explorations et surveillance des affections du système hépatobiliaire et du
+"",,,,,,,,,,pancréas
+07M14,,,T0,Z,,,,,,Symptômes et autres recours aux soins de la CMD 07
+07M15,,79(1-3),T1,1-4,,D-338,,,,"Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses"
+"",,,,,,,,,,et des hépatites alcooliques
+07M16,,,,1-4,,D-338,,,,Ictères du nouveau-né
+08C02,,,,1-4,,D-336,3,,,Interventions majeures multiples sur les genoux et/ou les hanches
+08C04,,,,1-4,,D-336,1,,,"Interventions sur la hanche et le fémur, âge inférieur à 18 ans"
+08C06,,,,1-4,,D-336,3,,,Amputations pour affections de l'appareil musculosquelettique et du tissu
+"",,,,,,,,,,conjonctif
+08C12,X,,J,1-4,,D-336,,,,Biopsies ostéoarticulaires
+08C13,,69(1-2),J,1-4,,D-336,,,,Résections osseuses localisées et/ou ablation de matériel de fixation interne au
+"",,,,,,,,,,niveau de la hanche et du fémur
+08C14,,,J,1-4,,D-336,,,,Résections osseuses localisées et/ou ablation de matériel de fixation interne au
+"",,,,,,,,,,niveau d'une localisation autre que la hanche et le fémur
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+08C20,,,J,1-4,,D-336,,,,Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu
+"",,,,,,,,,,conjonctif
+08C21,,,J,1-4,,D-336,,,,Autres interventions portant sur l'appareil musculosquelettique et le tissu
+"",,,,,,,,,,conjonctif
+08C22,,79(1),,1-4,,D-336,3,,,Interventions pour reprise de prothèses articulaires
+08C24,,79(1),,1-4,,D-336,3,,,Prothèses de genou
+08C25,,79(1-2),,1-4,,D-336,3,,,Prothèses d'épaule
+08C27,,69(1-2),,1-4,,D-336,,,,Autres interventions sur le rachis
+08C28,,69(1),J,1-4,,D-336,,,,Interventions maxillofaciales
+08C29,,,J,1-4,,D-042;D-336,,,,Interventions sur le tissu mou pour tumeurs malignes
+08C31,,,,1-4,,D-336,,,,"Interventions sur la jambe, âge inférieur à 18 ans"
+08C32,,79(1),J,1-4,,D-336,,,,"Interventions sur la jambe, âge supérieur à 17 ans"
+08C33,,69(1-2),,1-4,,D-336,,,,Interventions sur la cheville et l'arrière-pied à l'exception des fractures
+08C34,,69(1-2),J,1-4,,D-336,,,,Interventions sur les ligaments croisés sous arthroscopie
+08C35,,69(1-2),J,1-4,,D-336,,,,"Interventions sur le bras, coude et épaule"
+08C36,,,J,1-4,,D-336,,,,"Interventions sur le pied, âge inférieur à 18 ans"
+08C37,,,J,1-4,,D-336,,,,"Interventions sur le pied, âge supérieur à 17 ans"
+08C38,,79(1-2),J,1-4,,D-336,,,,Autres arthroscopies du genou
+08C39,,79(1),J,1-4,,D-336,,,,Interventions sur l'avant-bras
+08C40,X,69(1-2),J,1-4,,D-336,,,,Arthroscopies d'autres localisations
+08C42,X,69(1-2),J,1-4,,D-336,,,,Interventions non mineures sur les tissus mous
+08C43,,79(1-3),J,1-4,,D-336,,,,Interventions non mineures sur la main
+08C44,,79(1-2),J,1-4,,D-336,,,,Autres interventions sur la main
+08C45,,79(1-2),J,1-4,,D-336,,,,Ménisectomie sous arthroscopie
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+08C46,,79(1-2),J,1-4,,D-336,,,,Autres interventions sur les tissus mous
+08C47,,,,1-4,,D-069;D-336,3,,,Prothèses de hanche pour traumatismes récents
+08C48,,79(1-2),,1-4,,D-336,3,,,Prothèses de hanche pour des affections autres que des traumatismes récents
+08C49,,,,1-4,,D-069;D-336,2,,,"Interventions sur la hanche et le fémur pour traumatismes récents, âge supérieur"
+"",,,,,,,,,,à 17 ans
+08C50,,69(1),,1-4,,D-336,,,,"Interventions sur la hanche et le fémur sauf traumatismes récents, âge supérieur"
+"",,,,,,,,,,à 17 ans
+08C51,,69(1),,1-4,,D-069;D-336,3,,,"Interventions majeures sur le rachis pour fractures, cyphoses et scolioses"
+08C52,,69(1),,1-4,,D-336,2,,,Autres interventions majeures sur le rachis
+08C53,,69(1),,1-4,,D-069;D-336,1,,,Interventions sur le genou pour traumatismes
+08C54,,79(1-3),J,1-4,,D-336,,,,Interventions sur le genou pour des affections autres que traumatiques
+08C55,,,,1-4,,D-071;D-336,1,,,Interventions sur la cheville et l'arrière-pied pour fractures
+08C57,,79(1),J,1-4,,D-336,,,,Libérations articulaires du membre inférieur à l'exception de la hanche et du pied
+08C58,X,69(1-2),J,1-4,,D-336,,,,Arthroscopies de l'épaule
+08C59,X,,J,1-4,,D-336,,,,Ténosynovectomies du poignet
+08C60,X,,J,1-4,,D-336,,,,Interventions sur le poignet autres que les ténosynovectomies
+08C61,,69(1-2),,1-4,,D-336,2,,,Interventions majeures pour infections ostéoarticulaires
+08C62,,69(1-2),J,1-4,,D-336,,,,Autres interventions pour infections ostéoarticulaires
+08K02,,,J,,,,,,,"Affections de l'appareil musculosquelettique sans acte opératoire de la CMD 08,"
+"",,,,,,,,,,"avec anesthésie, en ambulatoire"
+08K03,,,,1-4,,D-337,,,,Tractions continues et réductions progressives : autres que hanche et fémur
+08K04,X,,,1-4,,D-337,2,,,Tractions continues et réductions progressives : hanche et fémur
+08K05,,,J,1-4,,D-337,,,,Spondyloplasties
+08K06,,,,Z,,,,,,"Autres actes interventionnels sur le rachis, séjours de moins de 2 nuits"
+08M04,,,T1,1-4,,D-338,,,,Fractures de la hanche et du bassin
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+08M05,,69(1-2),T1,1-4,,D-338,,,,"Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur"
+08M06,X,,T1,1-4,,D-338,,,,"Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans"
+08M07,,69(1-2),T1,1-4,,D-338,,,,"Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans"
+08M08,X,,T1,1-4,,D-338,,,,Entorses et luxations de la hanche et du bassin
+08M09,,69(1-2),T0,1-4,,D-338,,,,Arthropathies non spécifiques
+08M10,,79(1-2),T0,1-4,,D-338,,,,Maladies osseuses et arthropathies spécifiques
+08M14,,79(1-2),T0,1-4,,D-338,,,,Affections du tissu conjonctif
+08M15,,,T0,1-4,,D-338,,,,"Tendinites, myosites et bursites"
+08M18,,,T1,1-4,,D-338,,,,Suites de traitement après une affection de l'appareil musculosquelettique ou du
+"",,,,,,,,,,tissu conjonctif
+08M19,X,79(1),T1,1-4,,D-338,,,,Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif
+08M20,,,,1-4,,D-338,,,,"Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge"
+"",,,,,,,,,,inférieur à 18 ans
+08M21,,79(1-3),,1-4,,D-338,,,,"Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17"
+"",,,,,,,,,,ans
+08M22,,69(1-2),,1-4,,D-338,,,,"Fractures, entorses, luxations et dislocations de la main"
+08M23,,69(1-2),,1-4,,D-338,,,,"Fractures, entorses, luxations et dislocations du pied"
+08M24,,79(1-3),T1,1-4,,D-338,,,,"Tumeurs primitives malignes des os, du cartilage ou des tissus mous"
+08M25,X,,T1,1-4,,D-338,,,,Fractures pathologiques et autres tumeurs malignes de l'appareil
+"",,,,,,,,,,musculosquelettique et du tissu conjonctif
+08M26,X,69(1-2),,1-4,,D-338,,,,Fractures du rachis
+08M27,,69(1-2),T1,1-4,,D-338,,,,Sciatiques et autres radiculopathies
+08M28,,69(1-2),T1,1-4,,D-338,,,,Autres rachialgies
+08M29,,69(1-2),T1,1-4,,D-338,,,,Autres pathologies rachidiennes relevant d'un traitement médical
+08M30,X,,T1,1-4,,D-338,,,,Rhumatismes et raideurs articulaires
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+08M31,,69(1-2),T1,1-4,,D-338,,,,Ostéomyélites aigües (y compris vertébrales) et arthrites septiques
+08M32,,,T1,1-4,,D-338,,,,Ostéomyélites chroniques
+08M33,,,T0,1-4,,D-338,,,,Ablation de matériel sans acte classant
+08M34,,79(1),T0,1-4,,D-338,,,,Algoneurodystrophie
+08M35,,,,Z,,,,,,Explorations et surveillance de l'appareil musculosquelettique et du tissu
+"",,,,,,,,,,conjonctif
+08M36,,,T0,Z,,,,,,Symptômes et autres recours aux soins de la CMD 08
+08M37,,,T1,1-4,,D-072;D-338,,,,"Fractures du bras et de l'avant-bras, âge supérieur à 17 ans"
+08M38,,69(1-2),T1,1-4,,D-338,,,,Entorses et luxations du rachis
+09C08,,69(1-2),J,1-4,,D-336,,,,Interventions sur la région anale et périanale
+09C09,,,,1-4,,D-336,,,,Interventions plastiques en dehors de la chirurgie esthétique
+09C13,,,J,1-4,,D-336,,,,Interventions pour condylomes anogénitaux
+09C14,,,J,1-4,,D-336,,,,"Certains curages lymphonodaux pour des affections de la peau, des tissus"
+"",,,,,,,,,,sous-cutanés ou des seins
+09C16,,,,1-4,,D-336,3,,,Mastectomies totales avec reconstructions complexes
+09C17,,,,1-4,,D-336,3,,,Reconstructions complexes isolées
+09C18,,79(1),,1-4,,D-105;D-336,,,,Interventions majeures pour tumeur maligne du sein avec reconstruction
+"",,,,,,,,,,prothétique
+09C19,,79(1),,1-4,,D-105;D-336,,,,Interventions majeures pour tumeur maligne du sein
+09C20,,,J,1-4,,D-105;D-336,,,,Autres interventions pour tumeur maligne du sein
+09C21,,,,1-4,,D-336,,,,Interventions majeures hors tumeur maligne du sein
+09C22,,,J,1-4,,D-336,,,,Autres interventions hors tumeur maligne du sein
+09C23,,,J,1-4,,D-336;D-387,,,,Interventions majeures pour tumeur maligne de la peau
+09C24,,,J,1-4,,D-336;D-387,,,,Interventions intermédiaires pour tumeur maligne de la peau
+09C25,,,J,1-4,,D-336;D-387,,,,Autres interventions pour tumeur maligne de la peau
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+09C26,,,J,1-4,,D-336,,,,"Interventions pour tumeurs bénignes, naevus, kystes ou atteintes de l'ongle"
+09C27,,,,1-4,,D-336;D-389,,,,Interventions d'exérèse ou de greffe pour infection
+09C28,,,J,1-4,,D-336,,,,Interventions majeures d'exérèse ou de greffe
+09C29,,,J,1-4,,D-336,,,,Interventions intermédiaires d'exérèse ou de greffe
+09C30,,,J,1-4,,D-336,,,,Exérèse de lésions fasciales ou sousfasciales des tissus mous
+09C31,,,J,1-4,,D-336,,,,Autres interventions d'exérèse ou de greffe
+09C32,,,J,1-4,,D-336,,,,Chirurgie superficielle des orifices sensoriels de la face
+09C33,,,,1-4,,D-336,,,,Autres interventions majeures de la CMD09
+09C34,,,J,1-4,,D-336,,,,Autres interventions de la CMD09
+09K02,,,J,,,,,,,"Affections de la peau, des tissus sous-cutanés et des seins sans acte opératoire de"
+"",,,,,,,,,,"la CMD 09, avec anesthésie, en ambulatoire"
+09M02,,,T0,1-4,,D-338,,,,"Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans"
+09M03,,,T0,1-4,,D-338,,,,"Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans"
+09M04,,,T1,1-4,,D-338,,,,"Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge"
+"",,,,,,,,,,inférieur à 18 ans
+09M05,,69(1-2),T1,1-4,,D-338,,,,"Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge"
+"",,,,,,,,,,supérieur à 17 ans
+09M06,,,T0,1-4,,D-338,,,,Ulcères cutanés
+09M07,,69(1-2),T0,1-4,,D-338,,,,Autres affections dermatologiques
+09M08,,69(1-2),T1,1-4,,D-338,,,,Affections dermatologiques sévères
+09M09,X,79(1-3),T1,1-4,,D-338,,,,Affections non malignes des seins
+09M10,,79(1-2),T0,1-4,,D-338,,,,Tumeurs malignes des seins
+09M11,,,T0,1-4,,D-338,,,,Tumeurs de la peau
+09M12,,,,Z,,,,,,Explorations et surveillance des affections de la peau
+09M13,,,,Z,,,,,,Explorations et surveillance des affections des seins
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+09M14,,,T0,Z,,,,,,Symptômes et autres recours aux soins concernant les affections de la peau
+09M15,,,,Z,,,,,,Symptômes et autres recours aux soins concernant les affections des seins
+09Z02,,,,A-B,,,,,,Chirurgie esthétique
+10C02,,,,1-4,,D-336,2,,,Interventions sur l'hypophyse
+10C03,,,,1-4,,D-336,2,,,Interventions sur les glandes surrénales
+10C05,,,,1-4,,D-336,,,,Interventions sur les parathyroïdes
+10C07,,,,1-4,,D-336,,,,Interventions sur le tractus thyréoglosse
+10C08,X,79(1-2),J,1-4,,D-336,,,,"Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels"
+10C09,,,,1-4,,D-336,,,,Gastroplasties pour obésité
+10C10,,69(1),,1-4,,D-336,,,,Autres interventions pour obésité
+10C11,,79(1),,1-4,,D-043;D-336,,,,Interventions sur la thyroïde pour tumeurs malignes
+10C12,,79(1-3),,1-4,,D-336,,,,Interventions sur la thyroïde pour affections non malignes
+10C13,,,,1-4,,D-336,3,,,"Interventions digestives autres que les gastroplasties, pour obésité"
+10M02,,79(1-2),T1,1-4,,D-338,,,,"Diabète, âge supérieur à 35 ans"
+10M03,X,,T1,1-4,,D-338,,,,"Diabète, âge inférieur à 36 ans"
+10M07,,79(1-2),T1,1-4,,D-338,,,,Autres troubles endocriniens
+10M08,X,69(1-2),T1,1-4,,D-338,,,,Acidocétose et coma diabétique
+10M09,,79(1-2),T0,1-4,,D-338,,,,Obésité
+10M10,X,,T1,1-4,,D-338,,,,Maladies métaboliques congénitales sévères
+10M11,X,79(1-2),T0,1-4,,D-338,,,,Autres maladies métaboliques congénitales
+10M12,,79(1-3),T1,1-4,,D-338,,,,Tumeurs des glandes endocrines
+10M13,,,T1,Z,,,,,,Explorations et surveillance pour affections endocriniennes et métaboliques
+10M14,,,T0,Z,,,,,,Symptômes et autres recours aux soins de la CMD 10
+10M15,,,T1,1-4,,D-338,,,,"Troubles métaboliques, âge inférieur à 18 ans"
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+10M16,,69(1-2),T1,1-4,,D-338,,,,"Troubles métaboliques, âge supérieur à 17 ans"
+10M17,,,T1,1-4,,D-338,,,,"Troubles nutritionnels divers, âge inférieur à 18 ans"
+10M18,,79(1),T1,1-4,,D-338,,,,"Troubles nutritionnels divers, âge supérieur à 17 ans"
+10M19,,,,1-4,,D-338,,,,Autres affections de la CMD 10 concernant majoritairement la petite enfance
+10M20,,,,1-4,,D-338,,,,Problèmes alimentaires du nouveau-né et du nourrisson
+11C02,,,,1-4,,D-1104;D-336,3,,,Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour
+"",,,,,,,,,,une affection tumorale
+11C03,,,,1-4,,D-336,2,,,Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour
+"",,,,,,,,,,une affection non tumorale
+11C04,,,J,1-4,,D-336,,,,Autres interventions sur la vessie à l'exception des interventions transurétrales
+11C06,,,,1-4,,D-336,,,,"Interventions sur l'urètre, âge inférieur à 18 ans"
+11C07,,,J,1-4,,D-336,,,,"Interventions sur l'urètre, âge supérieur à 17 ans"
+11C08,,,T1,1-4,,D-336,,,,Autres interventions sur les reins et les voies urinaires
+11C09,,,J,1-4,,D-336,,,,Créations et réfections de fistules artérioveineuses pour affections de la CMD 11
+11C10,,,J,1-4,,D-336,,,,Interventions pour incontinence urinaire en dehors des interventions
+"",,,,,,,,,,transurétrales
+11C11,,79(1-3),J,1-4,,D-336,,,,Interventions par voie transurétrale ou transcutanée pour lithiases urinaires
+11C12,,69(1),J,1-4,,D-336,,,,Injections de toxine botulique dans l'appareil urinaire
+11C13,,79(1-3),J,1-4,,D-336,,,,Interventions par voie transurétrale ou transcutanée pour des affections non
+"",,,,,,,,,,lithiasiques
+11K02,,,J,1-4,,D-337,,,,"Insuffisance rénale, avec dialyse"
+11K03,,,,Z,,,,,,Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD
+"",,,,,,,,,,11 et de moins de 2 jours
+11K04,,,,Z,,,,,,Séjours de la CMD 11 comprenant une endoscopie génito-urinaire thérapeutique
+"",,,,,,,,,,sans anesthésie : séjours de moins de 2 jours
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+11K05,,,,Z,,,,,,Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 11
+"",,,,,,,,,,et de moins de 2 jours
+11K06,,,,Z,,,,,,Séjours de la CMD 11 comprenant une endoscopie génito-urinaire diagnostique
+"",,,,,,,,,,sans anesthésie : séjours de moins de 2 jours
+11K07,,,,Z,,,,,,"Séjours de la CMD 11 comprenant la mise en place de certains accès vasculaires,"
+"",,,,,,,,,,en ambulatoire
+11K08,,,J,,,,,,,"Lithotritie extracorporelle de l'appareil urinaire, en ambulatoire"
+11M02,,69(1-2),T1,1-4,,D-338,,,,Lithiases urinaires
+11M03,,,T0,1-4,,D-338,,,,"Infections des reins et des voies urinaires, âge inférieur à 18 ans"
+11M04,,79(1-3),T0,1-4,,D-338,,,,"Infections des reins et des voies urinaires, âge supérieur à 17 ans"
+11M06,X,79(1),T1,1-4,,D-338,,,,"Insuffisance rénale, sans dialyse"
+11M07,,,T1,1-4,,D-338,,,,Tumeurs des reins et des voies urinaires
+11M08,,,T0,1-4,,D-338,,,,"Autres affections des reins et des voies urinaires, âge inférieur à 18 ans"
+11M10,,,T0,1-4,,D-338,,,,Rétrécissement urétral
+11M11,,,,1-4,,D-338,,,,"Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à"
+"",,,,,,,,,,18 ans
+11M12,,79(1-3),T1,1-4,,D-338,,,,"Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à"
+"",,,,,,,,,,17 ans
+11M15,,79(1-3),T0,1-4,,D-062;D-338,,,,"Autres affections des reins et des voies urinaires d'origine diabétique, âge"
+"",,,,,,,,,,supérieur à 17 ans
+11M16,,,T0,1-4,,D-338,,,,"Autres affections des reins et des voies urinaires, à l'exception de celles d'origine"
+"",,,,,,,,,,"diabétique, âge supérieur à 17 ans"
+11M17,,,,1-4,,D-338,,,,Surveillances de greffes de rein
+11M18,,,,Z,,,,,,Explorations et surveillance pour affections du rein et des voies urinaires
+11M19,,,T0,Z,,,,,,Autres symptômes et recours aux soins de la CMD 11
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+11M20,,,,1-4,,D-338,,,,Autres affections uronéphrologiques concernant majoritairement la petite
+"",,,,,,,,,,enfance
+12C03,,,J,1-4,,D-336,,X,,Interventions sur le pénis
+12C04,,79(1-3),J,1-4,,D-336,,X,,Prostatectomies transurétrales
+12C05,,,,1-4,,D-009;D-336,,X,,Interventions sur les testicules pour tumeurs malignes
+12C06,,,J,1-4,,D-336,,X,,"Interventions sur les testicules pour affections non malignes, âge inférieur à 18"
+"",,,,,,,,,,ans
+12C07,,79(1),J,1-4,,D-336,,X,,"Interventions sur les testicules pour affections non malignes, âge supérieur à 17"
+"",,,,,,,,,,ans
+12C08,,79(1-3),J,1-4,,D-336,,X,,Circoncision
+12C09,,,,1-4,,D-009;D-336,2,X,,Autres interventions pour tumeurs malignes de l'appareil génital masculin
+12C10,,,,1-4,,D-336,,X,,Autres interventions pour affections non malignes de l'appareil génital masculin
+12C11,,79(1-3),,1-4,,D-038;D-336,3,X,,Interventions pelviennes majeures chez l'homme pour tumeurs malignes
+12C12,,79(1-3),,1-4,,D-336,3,X,,Interventions pelviennes majeures chez l'homme pour affections non malignes
+12C13,,79(1),J,1-4,,D-336,,X,,Stérilisation et vasoplastie
+12K02,,,,Z,,,,X,,Endoscopies génito-urinaires et anesthésie : séjours de la CMD 12 et de moins
+"",,,,,,,,,,de deux jours
+12K03,,,,Z,,,,X,,Séjours de la CMD 12 comprenant une endoscopie génito-urinaire sans
+"",,,,,,,,,,anesthésie : séjours de moins de deux jours
+12K06,,,J,,,,,X,,"Séjours comprenant une biopsie prostatique, en ambulatoire"
+12M03,,79(1),T1,1-4,,D-338,,X,,Tumeurs malignes de l'appareil génital masculin
+12M04,,79(1-3),T1,1-4,,D-338,,X,,Hypertrophie prostatique bénigne
+12M05,,79(1-3),T0,1-4,,D-338,,X,,Autres affections de l'appareil génital masculin
+12M06,,79(1-3),T1,1-4,,D-338,,X,,Prostatites aigües et orchites
+12M07,,69(1-2),T0,1-4,,D-338,,X,,Autres infections et inflammations de l'appareil génital masculin
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+12M08,,,,Z,,,,X,,Explorations et surveillance des affections de l'appareil génital masculin
+12M09,,,,Z,,,,X,,Symptômes et autres recours aux soins de la CMD 12
+13C03,,79(1-2),,1-4,,D-336,1,,,Hystérectomies
+13C04,,,J,1-4,,D-336,,,,Interventions réparatrices sur l'appareil génital féminin
+13C05,,79(1-3),,1-4,,D-1303;D-336,1,,,Interventions sur le système utéroannexiel pour tumeurs malignes
+13C06,,79(1-3),J,1-4,,D-336,,,,Interruptions tubaires
+13C07,,79(1-3),J,1-4,,D-336,,,,"Interventions sur le système utéroannexiel pour des affections non malignes,"
+"",,,,,,,,,,autres que les interruptions tubaires
+13C08,X,79(1-3),J,1-4,,D-336,,,,"Interventions sur la vulve, le vagin ou le col utérin"
+13C09,,79(1-3),J,1-4,,D-336,,,,Laparoscopies ou coelioscopies diagnostiques
+13C10,,,J,1-4,,D-336,,,,Ligatures tubaires par laparoscopie ou coelioscopie
+13C11,,79(1-3),J,1-4,,D-1303;D-336,,,,"Dilatations et curetages, conisations pour tumeurs malignes"
+13C12,,79(1-3),J,1-4,,D-336,,,,"Dilatations et curetages, conisations pour affections non malignes"
+13C13,,79(1-3),T1,1-4,,D-336,,,,Autres interventions sur l'appareil génital féminin
+13C14,,79(1),,1-4,,D-1303;D-336,3,,,"Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs"
+"",,,,,,,,,,malignes
+13C15,,79(1-3),,1-4,,D-336,3,,,"Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour"
+"",,,,,,,,,,affections non malignes
+13C16,,,J,,,,,,,"Prélèvements d'ovocytes, en ambulatoire"
+13C17,,69(1-2),J,1-4,,D-336,,,,Cervicocystopexie
+13C18,,,,1-4,,D-336,,,,Myomectomies de l'utérus
+13C19,,79(1-3),J,1-4,,D-336,,,,Interventions pour stérilité ou motifs de soins liés à la reproduction
+13C20,,,J,1-4,,D-336,,,,Exérèses ou destructions de lésions du col de l'utérus sauf conisations
+13K02,,,,Z,,,,,,Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD
+"",,,,,,,,,,13 et de moins de 2 jours
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+13K03,,,,Z,,,,,,Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique
+"",,,,,,,,,,sans anesthésie : séjours de moins de 2 jours
+13K04,,,,Z,,,,,,Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 13
+"",,,,,,,,,,et de moins de 2 jours
+13K05,,,,Z,,,,,,Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CMD
+"",,,,,,,,,,13 et de moins de 2 jours
+13K06,,,J,,,,,,,"Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, avec"
+"",,,,,,,,,,"anesthésie, en ambulatoire"
+13M03,,,T1,1-4,,D-338,,,,Tumeurs malignes de l'appareil génital féminin
+13M04,,,T1,1-4,,D-338,,,,Autres affections de l'appareil génital féminin
+13M05,,79(1-3),,1-4,,D-338,,,,Infections de l'utérus et de ses annexes
+13M06,,79(1-3),T1,1-4,,D-338,,,,Autres infections de l'appareil génital féminin
+13M07,,79(1-3),,1-4,,D-338,,,,Autres tumeurs de l'appareil génital féminin
+13M08,,,,1-4,,D-338,,,,Assistance médicale à la procréation
+13M09,,,,Z,,,,,,Explorations et surveillance gynécologiques
+13M10,,,,Z,,,,,,Autres symptômes et recours aux soins de la CMD 13
+14C03,,,,A-D,,,,,Tableau 1,Accouchements uniques par voie basse avec autres interventions
+14C04,,,T1,Z,,,,,,Affections du post-partum ou du post abortum avec intervention chirurgicale
+14C05,,,J,Z,,,,,,Avortements avec aspiration ou curetage ou hystérotomie
+14C06,,,,A-D,,,,,Tableau 2,Césariennes avec naissance d'un mort-né
+14C07,,,,A-D,,,,,Tableau 2,Césariennes pour grossesse multiple
+14C08,,,,A-D,,,,,Tableau 2,Césariennes pour grossesse unique
+14C09,,,,A-B,,,,,,Grossesses ectopiques avec intervention chirurgicale
+14C10,,,T1,Z,,,,,,Affections de l'ante partum avec intervention chirurgicale
+14M02,,,T1,A-B,,,,,,Affections médicales du post-partum ou du post-abortum
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+14M03,,,T0,A-D,,,,,,Affections de l'ante partum sans intervention chirurgicale
+14Z04,,,T1,Z,,,,,,"Avortements sans aspiration, ni curetage, ni hystérotomie"
+14Z06,,,T1,Z,,,,,,Menaces d'avortement
+14Z08,,,,Z,,,,,,Interruptions volontaires de grossesse : séjours de moins de 3 jours
+14Z09,,,,Z,,,,,,Accouchements hors de l'établissement
+14Z10,,,T1,A-B,,,,,,Accouchements par voie basse avec naissance d'un mort-né
+14Z11,,,,A-B,,,,,Tableau 3,Accouchements multiples par voie basse chez une primipare
+14Z12,,,,A-B,,,,,Tableau 3,Accouchements multiples par voie basse chez une multipare
+14Z13,,,T1,A-D,,,,,Tableau 1,Accouchements uniques par voie basse chez une primipare
+14Z14,,,T1,A-D,,,,,Tableau 1,Accouchements uniques par voie basse chez une multipare
+14Z15,,,,Z,,,,,,Grossesses ectopiques sans intervention chirurgicale
+14Z16,,,T1,Z,,,,,,Faux travail et menaces d'accouchements prématurés
+15C02,,,,A-B,,,,,Tableau 4,"Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7"
+15C03,,,,A-B,,,,,Tableau 4,"Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à"
+"",,,,,,,,,,7
+15C04,,,,A-B,,,,,Tableau 4,"Autres interventions chirurgicales, groupes nouveau-nés 1 à 7"
+15C05,,,,A-B,,,,,Tableau 4,"Interventions chirurgicales, groupes nouveau-nés 8 à 9"
+15C06,,,,A-B,,,,,Tableau 4,"Interventions chirurgicales, groupe nouveau-nés 10"
+15M02,,,,Z,,,,,,Transferts précoces de nouveau-nés vers un autre établissement MCO
+15M03,,,,,X,,,,,Décès précoces de nouveau-nés
+15M04,,,,,X,,,,,Décès tardifs de nouveau-nés
+15M05,,,,A-D,,,,,Tableau 4,Nouveau-nés de 3300g et âge gestationnel de 40 SA et assimilés (groupe
+"",,,,,,,,,,nouveau-nés 1)
+15M06,,,,A-D,,,,,Tableau 4,Nouveau-nés de 2400g et âge gestationnel de 38 SA et assimilés (groupe
+"",,,,,,,,,,nouveau-nés 2)
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+15M07,,,,A-C,,,,,Tableau 4,Nouveau-nés de 2200g et âge gestationnel de 37 SA et assimilés (groupe
+"",,,,,,,,,,nouveau-nés 3)
+15M08,,,,A-C,,,,,Tableau 4,Nouveau-nés de 2000g et âge gestationnel de 37 SA et assimilés (groupe
+"",,,,,,,,,,nouveau-nés 4)
+15M09,,,,A-C,,,,,Tableau 4,Nouveau-nés de 1800g et âge gestationnel de 36 SA et assimilés (groupe
+"",,,,,,,,,,nouveau-nés 5)
+15M10,,,,A-C,,,,,Tableau 4,Nouveau-nés de 1700g et âge gestationnel de 35 SA et assimilés (groupe
+"",,,,,,,,,,nouveau-nés 6)
+15M11,,,,A-C,,,,,Tableau 4,Nouveau-nés de 1500g et âge gestationnel de 33 SA et assimilés (groupe
+"",,,,,,,,,,nouveau-nés 7)
+15M12,,,,A-B,,,,,Tableau 4,Nouveau-nés de 1300g et âge gestationnel de 32 SA et assimilés (groupe
+"",,,,,,,,,,nouveau-nés 8)
+15M13,,,,A-B,,,,,Tableau 4,Nouveau-nés de 1100g et âge gestationnel de 30 SA et assimilés (groupe
+"",,,,,,,,,,nouveau-nés 9)
+15M14,,,,A-B,,,,,Tableau 4,Nouveau-nés de 800g et âge gestationnel de 28 SA et assimilés (groupe
+"",,,,,,,,,,nouveau-nés 10)
+15Z10,,,,,X,,,,,Mort-nés
+16C02,,,,1-4,,D-336,2,,,Interventions sur la rate
+16C03,,,J,1-4,,D-336,,,,Autres interventions pour affections du sang et des organes hématopoïétiques
+16M06,,,T1,1-4,,D-338,,,,Affections de la rate
+16M07,,,,1-4,,D-338,,,,Donneurs de moelle
+16M08,,,,1-4,,D-338,,,,Déficits immunitaires
+16M09,,79(1-3),T0,1-4,,D-338,,,,Autres affections du système réticuloendothélial ou immunitaire
+16M10,,79(1),T1,1-4,,D-338,,,,"Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans"
+16M11,,,T1,1-4,,D-338,,,,"Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans"
+16M12,,69(1),T1,1-4,,D-338,,,,Purpuras
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+16M13,,79(1-3),T0,1-4,,D-338,,,,Autres troubles de la coagulation
+16M14,,,,Z,,,,,,Explorations et surveillance pour affections du sang et des organes
+"",,,,,,,,,,hématopoïétiques
+16M15,,,T0,Z,,,,,,Symptômes et autres recours aux soins de la CMD 16
+16M16,,,T1,1-4,,D-338,,,,"Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans"
+16M17,,,T1,1-4,,D-338,,,,"Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans"
+16M18,,,,1-4,,D-338,,,,Autres affections hématologiques concernant majoritairement la petite enfance
+17C06,,,,1-4,,D-336,2,,,Interventions majeures de la CMD17
+17C07,,,,1-4,,D-336,,,,Interventions intermédiaires de la CMD17
+17C08,,,J,1-4,,D-336,,,,Interventions mineures de la CMD17
+17K04,,,,1-4,,D-337,,,,Autres irradiations
+17K05,,,,1-4,,D-337,,,,Curiethérapies de la prostate par implants permanents
+17K07,,,J,,,,,,,"Affections myéloprolifératives et tumeurs de siège imprécis sans acte opératoire,"
+"",,,,,,,,,,"avec anesthésie, en ambulatoire"
+17K08,X,,,1-4,,D-337,,,,Autres curiethérapies
+17K09,X,,,1-4,,D-337,,,,Irradiations internes
+17M05,,,,1-4,,D-338,,,,Chimiothérapie pour leucémie aigüe
+17M06,,,T2,1-4,,D-338,,,,Chimiothérapie pour autre tumeur
+17M08,,,T0,1-4,,D-338,,,,"Leucémies aigües, âge inférieur à 18 ans"
+17M09,,,T0,1-4,,D-338,,,,"Leucémies aigües, âge supérieur à 17 ans"
+17M14,,,,Z,,,,,,Explorations et surveillance pour affections myéloprolifératives et tumeurs de
+"",,,,,,,,,,siège imprécis ou diffus
+17M15,,,T0,1-4,,D-338,,,,Lymphomes et autres affections malignes lymphoïdes
+17M16,,,T0,1-4,,D-338,,,,Hémopathies myéloïdes chroniques
+17M17,,,T0,1-4,,D-338,,,,Autres affections et tumeurs de siège imprécis ou diffus
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+18C02,,,J,1-4,,D-336,,,,Interventions pour maladies infectieuses ou parasitaires
+18M02,,,,1-4,,D-338,,,,"Maladies virales et fièvres d'étiologie indéterminée, âge inférieur à 18 ans"
+18M03,,69(1-2),T1,1-4,,D-338,,,,"Maladies virales, âge supérieur à 17 ans"
+18M04,,69(1-2),T1,1-4,,D-338,,,,"Fièvres d'étiologie indéterminée, âge supérieur à 17 ans"
+18M06,,,,1-4,,D-338,,,,"Sepsis, âge inférieur à 18 ans"
+18M07,,,T1,1-4,,D-338,,,,"Sepsis, âge supérieur à 17 ans"
+18M09,,69(1-2),T1,1-4,,D-338,,,,Paludisme
+18M10,,69(1-2),T0,1-4,,D-338,,,,Maladies infectieuses sévères
+18M11,,79(1-3),T1,1-4,,D-338,,,,Autres maladies infectieuses ou parasitaires
+18M12,,,,Z,,,,,,Explorations et surveillance pour maladies infectieuses ou parasitaires
+18M13,,,,,X,,,,,Affections de la CMD 18 avec décès : séjours de moins de 2 jours
+18M14,,,T1,Z,,,,,,Symptômes et autres recours aux soins de la CMD 18
+18M15,,,,1-4,,D-338,,,,Autres maladies infectieuses concernant majoritairement la petite enfance
+19C02,,,,1-4,,D-336,,,,Interventions chirurgicales avec un diagnostic principal de maladie mentale
+19M02,,79(1-3),T1,1-4,,D-338,,,,Troubles aigus de l'adaptation et du fonctionnement psychosocial
+19M06,,,T1,1-4,,D-338,,,,"Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans"
+19M07,,,T1,1-4,,D-338,,,,"Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans"
+19M10,,69(1-2),T1,1-4,,D-338,,,,Névroses autres que les névroses dépressives
+19M11,,69(1-2),T1,1-4,,D-338,,,,Névroses dépressives
+19M12,,,T0,1-4,,D-338,,,,Anorexie mentale et boulimie
+19M13,,,T1,1-4,,D-338,,,,Autres troubles de la personnalité et du comportement avec réactions impulsives
+19M14,,69(1-2),T1,1-4,,D-338,,,,Troubles bipolaires et syndromes dépressifs sévères
+19M15,,,T1,1-4,,D-338,,,,"Autres psychoses, âge supérieur à 79 ans"
+19M16,,69(1-2),T1,1-4,,D-338,,,,"Autres psychoses, âge inférieur à 80 ans"
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+19M17,,,,1-4,,D-338,,,,Maladies et troubles du développement psychologiques de l'enfance
+19M18,,,T1,1-4,,D-338,,,,Autres maladies et troubles mentaux de l'enfance
+19M19,,79(1-3),T0,1-4,,D-338,,,,Troubles de l'humeur
+19M20,,69(1-2),T1,1-4,,D-338,,,,Autres troubles mentaux
+19M21,,,,Z,,,,,,Explorations et surveillance pour maladies et troubles mentaux
+19M22,,,T1,Z,,,,,,Symptômes et autres recours aux soins de la CMD 19
+20Z02,,,T1,1-4,,,,,,Toxicomanies non éthyliques avec dépendance
+20Z03,,79(1-3),,1-4,,,,,,Abus de drogues non éthyliques sans dépendance
+20Z04,,,T1,1-4,,,,,,Ethylisme avec dépendance
+20Z05,,,,1-4,,,,,,Ethylisme aigu
+20Z06,,69(1),T1,1-4,,,,,,Troubles mentaux organiques induits par l'alcool ou d'autres substances
+21C04,,,J,1-4,,D-336;D-340,,,,Interventions sur la main ou le poignet à la suite de blessures
+21C05,,69(1-2),J,1-4,,D-336;D-340,,,,Autres interventions pour blessures ou complications d'acte
+21C06,,,J,1-4,,D-336;D-340,,,,Greffes de peau ou parages de plaies pour lésions autres que des brûlures
+21K02,,,J,,,,,,,"Traumatismes, allergies et empoisonnements sans acte opératoire, avec"
+"",,,,,,,,,,"anesthésie, en ambulatoire"
+21M02,,,T1,1-4,,D-338,,,,"Effets toxiques des médicaments et substances biologiques, âge inférieur à 18"
+"",,,,,,,,,,ans
+21M04,,,T0,1-4,,D-338,,,,"Réactions allergiques non classées ailleurs, âge inférieur à 18 ans"
+21M05,,,T1,1-4,,D-338,,,,"Réactions allergiques non classées ailleurs, âge supérieur à 17 ans"
+21M06,,,,1-4,,D-338,,,,"Traumatismes imprécis, âge inférieur à 18 ans"
+21M07,,,T1,1-4,,D-338,,,,"Traumatismes imprécis, âge supérieur à 17 ans"
+21M10,,69(1-2),T1,1-4,,D-338,,,,"Effets toxiques des médicaments et substances biologiques, âge supérieur à 17"
+"",,,,,,,,,,ans
+21M11,,69(1-2),T1,1-4,,D-338,,,,Effets toxiques des autres substances chimiques
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+21M12,,69(1-2),,1-4,,D-338,,,,Autres effets toxiques
+21M13,X,79(1-3),,1-4,,D-338,,,,Maltraitance
+21M14,,69(1-2),T1,1-4,,D-338,,,,Autres traumatismes et effets nocifs autres que les intoxications
+21M15,,,T0,1-4,,D-338,,,,Rejets de greffe
+21M16,,79(1-3),T1,1-4,,D-338,,,,Autres complications iatrogéniques non classées ailleurs
+22C02,,,J,1-4,,D-336;D-376,,X,,Brûlures non étendues avec greffe cutanée
+22C03,,79(1),,1-4,,D-336;D-376,,X,,Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales
+22K02,,,J,,,,,X,,"Brûlures sans acte opératoire, avec anesthésie, en ambulatoire"
+22M02,,79(1-3),T1,1-4,,D-338,,X,,Brûlures et gelures non étendues sans intervention chirurgicale
+22Z02,X,,,1-4,,,3,X,,Brûlures étendues
+22Z03,,,,Z,,,,X,,Brûlures avec transfert vers un autre établissement MCO : séjours de moins de 2
+"",,,,,,,,,,jours
+23C02,,,J,1-4,,D-336,,,,Interventions chirurgicales avec autres motifs de recours aux services de santé
+23K02,,,,Z,,,,,,Explorations nocturnes et apparentées : séjours de moins de 2 jours
+23K03,,,J,,,,,,,"Motifs de recours de la CMD 23 sans acte opératoire, avec anesthésie, en"
+"",,,,,,,,,,ambulatoire
+23M02,,,T0,Z,,,,,,Rééducation
+23M06,,79(1-3),T1,1-4,,D-338,,,,Autres facteurs influant sur l'état de santé
+23M07,,,J,,,,,,,"Autres motifs de recours pour infection à VIH, en ambulatoire"
+23M08,,,J,,,,,,,"Autres motifs de recours chez un patient diabétique, en ambulatoire"
+23M09,,69(1-2),,1-4,,D-338,,,,Chimiothérapie pour affections non tumorales
+23M10,,,T0,1-4,,D-338,,,,Soins de contrôle chirurgicaux
+23M11,,,T0,1-4,,D-338,,,,Autres motifs concernant majoritairement la petite enfance
+23M14,,,,Z,,,,,,Traitements prophylactiques
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+23M15,,,,Z,,,,,,Actes non effectués en raison d'une contre-indication
+23M16,,,T1,Z,,,,,,Convalescences et autres motifs sociaux
+23M19,,,,Z,,,,,,Explorations et surveillance pour autres motifs de recours aux soins
+23M20,,,T1,Z,,,,,,Autres symptômes et motifs de recours aux soins de la CMD 23
+23M21,,,T0,Z,,,,,,Désensibilisations et tests allergologiques nécessitant une hospitalisation
+23Z02,,,T0,Z,,,,X,,"Soins Palliatifs, avec ou sans acte"
+23Z03,,,,Z,,,,,,Interventions de confort et autres interventions non prises en charge par
+"",,,,,,,,,,l'assurance maladie obligatoire
+25C02,,,,1-4,,D-336,,X,,Interventions pour maladie due au VIH
+25M02,,,T1,A-C,,,,X,,Autres maladies dues au VIH
+25Z02,,,,,X,,,X,,"Maladies dues au VIH, avec décès"
+25Z03,,,,1-4,,,,X,,"Maladies dues au VIH, âge inférieur à 13 ans"
+26C02,,,,1-4,,D-130;D-336,3,X,,Interventions pour traumatismes multiples graves
+26M02,,,,1-4,,D-130;D-338,2,X,,Traumatismes multiples graves
+27C02,,,,1-4,,D-082;D-336,3,X,,Transplantations hépatiques
+27C03,,,,1-4,,D-083;D-336,3,X,,Transplantations pancréatiques
+27C04,,,,1-4,,D-081;D-336,3,X,,Transplantations pulmonaires
+27C05,,,,1-4,,D-080;D-336,3,X,,Transplantations cardiaques
+27C06,,,,1-4,,D-079;D-336,3,X,,Transplantations rénales
+27C07,,,,1-4,,D-336,3,X,,Autres transplantations
+27Z02,,,,1-4,,D-339,3,X,,Allogreffes de cellules souches hématopoïétiques
+27Z03,,,,Z,,,3,X,,Autogreffes de cellules souches hématopoïétiques
+27Z04,,,J,,,,,X,,"Greffes de cellules souches hématopoïétiques, en ambulatoire"
+28Z01,,,,Z,,,,,,"Entraînements à la dialyse péritonéale automatisée, en séances"
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+28Z02,,,,Z,,,,,,"Entraînements à la dialyse péritonéale continue ambulatoire, en séances"
+28Z03,,,,Z,,,,,,"Entraînements à l'hémodialyse, en séances"
+28Z04,,,,Z,,,,,,"Hémodialyse, en séances"
+28Z07,,,,Z,,,,,,"Chimiothérapie pour tumeur, en séances"
+28Z10,,,,Z,,,,,,"Curiethérapie, en séances"
+28Z11,,,,Z,,,,,,"Techniques spéciales d'irradiation externe, en séances"
+28Z14,,,,Z,,,,,,"Transfusions, en séances"
+28Z15,,,,Z,,,,,,"Oxygénothérapie hyperbare, en séances"
+28Z16,,,,Z,,,,,,"Aphérèses sanguines, en séances"
+28Z17,,,,Z,,,,,,"Chimiothérapie pour affection non tumorale, en séances"
+28Z18,,,,Z,,,,,,"Radiothérapie conformationnelle avec modulation d'intensité, en séances"
+28Z19,,,,Z,,,,,,Préparations à une irradiation externe par RCMI ou techniques spéciales
+28Z20,,,,Z,,,,,,Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec
+"",,,,,,,,,,HDV
+28Z21,,,,Z,,,,,,Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans
+"",,,,,,,,,,HDV
+28Z22,,,,Z,,,,,,Autres préparations à une irradiation externe
+28Z23,,,,Z,,,,,,"Techniques complexes d'irradiation externe avec repositionnement, en séances"
+28Z24,,,,Z,,,,,,"Techniques complexes d'irradiation externe sans repositionnement, en séances"
+28Z25,,,,Z,,,,,,"Autres techniques d'irradiation externe, en séances"
+90H01,,,,Z,,,,,,Erreurs détectées dans les RSA par le logiciel de mesure de l'activité hospitalière
+90Z00,,,,Z,,,,,,Erreurs détectées par les contrôles effectués sur les RUM et leur séquencement
+90Z01,,,,Z,,,,,,"Diagnostic invalide comme diagnostic principal, dans certaines circonstances"
+"",,Plus,,,,,CoCod,,,
+"",Moins,de 69,,Niveau,,,si,CoCod,,
+"",de 2,ou 79,GHM,de,,,durée,pour,AG et poids,
+racine,ans,ans,courts,sévérité,Décès,CMA exclues,inf. à,accouch.,CMD14-15,Libellés
+90Z02,,,,Z,,,,,,Autres erreurs détectées dans le parcours de l'arbre de groupage
+90Z03,,,,Z,,,,,,Erreurs d'implémentation de la fonction groupage ou erreur d'exécution d'un
+"",,,,,,,,,,programme
