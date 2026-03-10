@@ -1,3 +1,1 @@
-web:
-gunicorn
-pmsi_engine:app
+web: gunicorn pmsi_engine:app
