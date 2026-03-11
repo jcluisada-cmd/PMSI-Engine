@@ -1,1 +1,1 @@
-web: gunicorn pmsi_engine:app
+web: gunicorn pmsi_engine:app --bind 0.0.0.0:$PORT
